@@ -1,0 +1,517 @@
+Changing regular light bulbs to energy-efficient LED light bulbs is
+an easy way to both save money and help the planet.
+LEDs are made
+with high-quality materials, so they last longer. You ‘will generate less
+greenhouse gases if you purchase an LED light bulb that will last for 10
+years rather than something that will have to be thrown away after a
+short time.
+Most importantly, LEDs use about 75% less energy than
+regular light bulbs. Other high-quality products like good computers
+also last longer. We predict that your electricity bill is going to look a
+lot better after this purchase!
+
+Polar bears live in some of the harshest conditions on earth, dealing
+easily with Arctic temperatures as low as minus 5 degrees Celsius.
+The
+bears have many adaptations that allow them to do well when the
+temperature drops.
+One is their huge size.
+Since the 1940s, scientists
+-
+have known that aan of the bear’s secret is the white fur covering it’s
+body.
+One might think that black fur would be better at absorbing
+heat, ‘Dut it turns out that the hairs of polar bear fur are extremely
+effective at transmitting sunlight toward the bear’s skin.
+But the white
+fur is only half the answer. The other half is the polar bear’s black
+skin.
+The hairs of the polar bear fur conduct sunlight down to the bear’s
+black skin, which absorbs all of the light waves, heating the bear.
+
+In
+recent
+years,
+phase change
+materials (PCMs) contained
+in
+micro-capsules, are increasingly mixed with construction materials to
+improve the energy efficiency of buildings.
+PCMs can absorb and store
+heat from sunlight, creating a cooling ‘effect in the interior. The
+interior itself can be any color. While doing so, they change from a
+solid
+state
+to
+a _ liquid
+state.
+Later,
+at
+night, when
+outdoor
+temperatures drop, the absorbed heat is then released into the interior,
+providing a warming effect, as the PCMs turn from liquid to solid.
+
+By 2020 two-thirds of knowledge workers in the U.S. worked in an
+open-plan office.
+Most people wish they didn’t.
+The very first survey
+comparing this to other office designs was published in 1970.
+It found
+that few employees like a completely open plan with little privacy.
+The
+respondents—358 employees at 18 companies—complained about noise,
+difficulty concentrating, and lack of human warmth.
+The survey might
+as well have been conducted today.
+In fact, dozens of recent surveys
+have reached
+the same
+conclusions.
+It’s now
+well
+established
+that
+open-plan offices fail to accomplish one of their major stated goals—
+increasing teamwork. 
+New research examined how the use of artificial
+intelligence (AI) in conversations impacts the way that people express
+themselves
+and
+view
+each
+other.
+Technology
+companies
+tend
+to
+emphasize how useful AI tools are to accomplish tasks faster and better,
+.
+but they ignore the social influence of AI.
+The new research found that
+AI did increase efficiency, but when participants think their partner is
+using more Al-suggested responses, they perceive that partner as less
+cooperative, and
+feel
+less connection toward them.
+People tend
+to
+evaluate others more negatively simply because they suspect that you’re
+using AI to help you write, regardless of whether you actually are.
+This
+finding illustrates the overall suspicion that people seem to have toward
+Al.
+
+Finding a place to live is not always easy in the U.S. these days,
+particularly for low-income residents.
+In many major U.S. cities, there is
+|
+often a gap between what people can afford to rent and what is available.
+To
+bridge this gap in New York City (NYC), the Affordable Housing System
+provides qualified residents with housing at below-market costs.
+In order to be considered affordable, rent should be 30% or less of
+annual income.
+The Table below displays the amounts equal to 30% of
+annual median* income in 2019 for residents in the five main areas of NYC.
+For example, if residents living in Brooklyn spend $20,100 or more, or those
+in Queens spend $22,100 or more, then their housing costs are over 30% of
+the area median income.
+The exact amount, of course, varies depending on
+the number of family members.
+
+Research shows that, on average, NYC renters spend 32.5% of their
+income on rent.
+However, the percentage differs significantly by income
+category.
+The Figure shows the percentage of low-income renters whose
+ー11 一
+
+rent made up between 30% and 50% and over 50% of their annual income.
+About 30% of them spend between 30% and 50%, whereas 48% to 47% spend
+over 50% of their annual income on rent.
+In short, rent imposes a heavy
+burden on low-income residents.
+
+Though an increasing number of low-income families qualify for the
+Affordable Housing System, they are
+often not
+able
+to obtain housing
+quickly.
+Because so many low-income households apply for the affordable
+housing lottery*’,
+it may take months or even years for them to finally
+receive such housing.
+Therefore, low-income families have to keep paying
+rent that they cannot afford.
+And since they spend so much on rent, they
+usually neglect other vital necessities.
+
+[1] For surfers, wave pools are the future of inland
+surfing.
+A new
+industry was even created to provide the perfect wave for surfing in limited
+outdoor and indoor spaces.
+|
+[2] The first experiments with human-made waves date back to the 19th
+century.
+Today, several facilities create experimental waves.
+They can be
+created in small laboratories or large, football-field-size water pools.
+The
+goal of these experiments is to understand how certain waves behave, what
+their shapes are, and how they spread.
+[3] Waves have a daily impact on the world’s coastlines, so it is critical to
+understand their potential threats to human activity.
+Waves also explain
+why seawalls and other barriers are built and how harbors are created.
+But they’re also a factor that must be considered in the preservation of
+dune*! systems and the protection of private and public property built near
+the shoreline.
+The same need for studies applies to ship building engineers,
+who need to determine how much waves affect ship structures.
+[4] There are four main types of wave-making models.
+Each one of them
+has
+specific
+advantages,
+depending on
+the
+desired outcome.
+The
+four
+models of tank wavemakers use either a paddle, a plunger, a piston, or a
+pneumatic*? mechanism, as seen in the Figure.
+The paddle, the plunger,
+and the piston are all connected by a rigid arm to a pin located off-center on
+a turning wheel and thus directly produce mathematically satisfying sine
+waves.
+
+The piston type generates waves by the horizontal movement of the wave-
+making plate, while the paddle type generates waves by the back-and-forth
+tlting*? motion of the wave-making plate.
+The plunger type generates
+waves by the vertical motion of the floating body.
+Whenever you reduce the
+speed of the driving wheel, the wave period lengthens; on the other hand, if
+you increase the radius of the pin connection, the wave height increases.
+[5] Pneumatic wavemakers are attached to the walls of large, square
+tanks.
+They create waves by changing the air pressure beneath a hood so
+that the water surface there rises and falls.
+As the water surface inside the
+hood is pushed down, the pressure is transmitted, according to Pascal’s law,
+to the water on the other side of the hood where the surface is raised.
+
+
+That’s when
+the movement
+will
+start
+to
+travel
+across
+the
+tank.
+By
+controlling the amount and duration of air pressure blown by the motor, it is
+possible to control the size of the waves and the wavelength, respectively.
+
+At the end of my opening lecture in my 1998 course on global health,
+most students headed for the coffee machine, but one remained behind.
+I
+saw her wander slowly toward the front of the room with tears in her eyes,
+then, when she understood that I had noticed her, she stopped, flipped her
+face away, and looked out the window.
+She was obviously moved.
+I
+expected her to share with me a sad personal problem that was going to
+prevent her
+participation
+in the course.
+Before
+I
+could say anything
+comforting, she turned around, gained control over her emotions, and in a
+steady voice said something completely unexpected:
+“My
+family
+is
+from
+Iran.
+What
+you
+just
+said
+about
+the
+fast
+improvements in health and education in Iran was the first positive thing
+I’ve heard anyone from Sweden ever say about the Iranian people.”
+My
+student said this to me in perfect Swedish with a clear Stockholm accent:
+she had obviously lived in Sweden her whole life.
+I was stunned.
+All I
+had done was to briefly show UN data for Iran on the increase in life
+expectancy and decrease in babies per woman.
+I had also mentioned that
+the decrease was quite an achievement; it was actually the fastest drop ever,
+from more than six babies per woman in 1984 down to fewer than three
+babies per woman nearly 15 years later.
+The student said, “You stated that the fast fall in the number of babies
+per woman in Iran is a reflection of improvements in health and education,
+especially for Iranian women. You also rightly said that most young
+-
+Iranians now have modern values about family size.
+I have never heard
+anyone in Sweden say anything even close to that.
+Even highly educated
+Swedes seem completely unaware of the changes that have taken place: the
+improvements and the modernity.”
+
+The fastest drop in the number of babies per woman in world history
+went completely unreported in the free Western media.
+Iran has a highly
+educated population with excellent access to an advanced public health-care
+system.
+How many people in the West would guess that women in Iran
+.
+today decide to have fewer babies than women in either the United States or
+Sweden?
+Do we Westerners love free speech so much that it makes us
+blind to any progress in a country whose regime does not share our love of
+freedom of speech?
+It is, at least, clear that a free media is no guarantee
+that the world’s fastest cultural changes will be reported.
+So, based on the
+lack of media reporting,
+it is easy to understand why so many people
+presuppose that women in some cultures give birth to more children.
+°
+The lack of reporting on the drop in the birthrate in Iran is just one
+example of how people tend to claim that certain values or behaviors are
+culture-specific, unchanging and unchangeable.
+It’s just not true.
+Take
+my lovely home country, Sweden.
+We Swedes are known for being quite
+liberal and open, aren’t we?
+Yet this hasn’t always been our culture.
+These
+haven’t always been our values.
+In my own living memory, Swedish values
+were extremely conservative.
+My father’s father, Gustav, for example, was
+born in Sweden and was a quite typical Swedish man of his generation.
+He
+was extremely proud of his large family of seven children; he never changed
+a diaper, cooked meal, or cleaned the house.
+However, his conservative
+attitudes were not adopted by the next generation.
+
+[1] In response to the problem of global warming, increasing efforts are
+focused on switching energy resources from fossil fuels to electricity.
+The
+。
+main goal is to reduce our carbon footprint, that is, to minimize the amount
+of carbon dioxide (COz) we release in our daily activities.
+One source of
+the release of this gas
+is the transportation
+of people and goods using
+gasoline-powered
+vehicles.
+An
+alternative
+could be
+the use
+of electric
+vehicles (EVs).
+As EVs do not use gasoline, but
+electricity,
+they are
+supposed to be “clean” or “green” because they do not release carbon dioxide.
+However, we have to be aware that since electricity can be produced by
+many methods, not ‘al of them will necessarily reduce the carbon footprint
+to the same degree.
+In fact, the production of electricity itself, in many
+cases, generates carbon dioxide.
+[2] The oldest and most common way to produce electricity has been—and
+still is—to burn fossil fuels, that is, coal, oil, and natural gas, to obtain heat
+to produce steam.
+The pressure of the steam is used to drive devices called
+turbines that convert movement into
+electricity.
+These three
+fuels
+are
+indeed
+fossils
+of dead animals and plants that ended up contained in
+enormous underground deposits.
+They cannot be created again, so they are
+non-renewable. Moreover, burning these fossil fuels produces carbon dioxide.
+This gas is the main cause of global warming.
+[3] Nuclear energy can also be used to produce electricity in special plants
+where the fuel uranium*! produces an enormous amount of heat through a
+nuclear reaction.
+This heat is used to produce steam to power turbines to
+generate electricity.
+This technology is low-carbon emission, but the fuel
+used is non-renewable.
+[4] Electricity
+can
+also be
+generated using renewable
+resources
+that
+Nature provides by means of technologies that do not release carbon dioxide,
+ー94 一
+
+called low-carbon emission technologies.
+The energy generated by flowing
+water or wind can be transformed into hydropower and wind power to
+,
+generate electricity using turbines.
+Solar panels are another low-carbon
+emission technology: they convert sunlight energy directly into electricity
+without the use of turbines.
+[5] A study done in 2021 by the U.S. government calculated how much
+carbon dioxide emissions would be reduced in each state if only EVs were
+used,
+against the case
+if only gasoline-powered vehicles were used.
+It
+makes
+it clear that the impact of EVs will be
+affected by the carbon
+emissions from the
+electricity generation methods themselves.
+Table
+1
+shows the cases of four states.
+The figures ‘represent the percentages of
+electricity generated by the respective technologies, using resources that are
+renewable and non-renewable.
+The column “Other renewables” represents
+a variety
+of different
+technologies
+that
+are
+low-carbon
+emission.
+The
+percentage of reduction in carbon emissions if only EVs were used is shown
+in the last column on the right.
+
+[6] The use of fossil fuels to produce electricity will generate considerable
+amounts of carbon emissions, altering the degree of reductions in COs
+
+depending on the state.
+For instance, in Vermont, almost all electricity is
+produced
+using
+renewable,
+low-carbon
+emission
+technologies.
+In
+consequence, the impact of EVs will be great (100% reduction of carbon
+dioxide).
+This
+is because
+neither
+electricity
+generation
+nor EVs
+will
+.
+produce carbon dioxide.
+On the other hand, in West Virginia, electricity is
+generated using mostly coal; this produces large amounts of carbon dioxide.
+Despite the use of such a high percentage of fossil fuels, the calculated
+reduction of carbon dioxide achieved by EVs will be 51%.
+This indicates the
+positive impact of using EVs, even in places where fossil fuels are used for
+electricity
+generation.
+Likewise,
+in
+Connecticut,
+where
+53.5%
+of
+the
+electricity is generated using natural gas, the additional use of nuclear
+power
+significantly
+reduces
+the
+amount
+of carbon
+dioxide
+emissions.
+Washington State uses several renewable resources, which compensate for
+the carbon emissions from the 14.5% use of natural gas.
+.
+[7] In the global arena, electricity generation is also diverse.
+Table 2
+shows the sources of electricity production in four countries for the year
+2021.
+
+France depends on fossil fuels to produce electricity to a lesser degree than
+the other three countries.
+Instead, France relies heavily on nuclear power
+andにin the use of renewables.
+Meanwhile, Germany seems to strike a
+
+balance between fossil fuels and renewables; fossil fuels account for 48.6%
+and renewables account for 39.5%.
+In contrast, China and Japan are fairly
+dependent on fossil fuels for about two-thirds of their electricity production.
+China depends mostly on coal (62.9%), but depends very little on natural
+gas (3.2%).
+Japan
+relies
+on
+coal (32.1%) and
+natural
+gas (35.1%) to
+approximately the same extent.
+These figures in Table 2 suggest that the
+strongest impact of EVs in reducing the carbon footprint will be in countries
+where electricity is produced using “green” technologies.
+[8] In conclusion, the data show that EVs will definitively reduce carbon
+emissions, but this reduction will vary depending on the technologies used to
+generate electricity.
+We should also note that world energy demand is not
+only
+for
+electricity.
+There
+is
+even
+greater
+demand
+for
+energy
+for
+transportation (ships and airplanes moving passengers and goods across the
+globe) and
+for heating during winter.
+Both
+activities consume almost
+exclusively fossil fuels.
+Given the energy demands of shipping and heating,
+the percentage of “green” energy gained from switching to EVs would
+represent
+less than
+16%
+of the world
+total.
+This
+is indeed a rather
+bittersweet conclusion.

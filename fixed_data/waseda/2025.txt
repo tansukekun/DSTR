@@ -1,0 +1,234 @@
+[A] Social dilemmas are situations in which collective interests are at odds with private interests. In other
+words, they describe situations in which the fully selfish and rational behavior leads to an outcome smaller than
+the one the individuals would obtain if they acted collectively. Social dilemmas create then a tension between
+private interests and public interests, between selfishness and cooperation. Classically, several different social
+dilemmas have been distinguished, including the Prisoner’s dilemma, Public Goods, the Tragedy of the
+Commons, and, more recently, the Traveler’s dilemma. Each of these games has been studied by researchers
+from different disciplines, such as economists, psychologists, and political scientists, because of the intrinsic
+philosophical interest in understanding human nature and since many concrete and important situations, such as
+pollution, depletion of natural resources, and intergroup conflict, can be modelled as social dilemmas.
+[B] The classical approaches explain tendency to cooperation dividing people in proself and prosocial
+types, or appealing to forms of external control, or to long-term strategies in iterated social dilemmas. But, over
+the years many experiments have been accumulated to show cooperation even in one-shot social dilemmas
+without external control. These and other earlier experiments have also shown that the rate of cooperation in the
+same game depends on the particular payoffs, suggesting that most likely humans are engaged in some sort of
+indirect reciprocity and the same person may behave more or less cooperatively depending on the payoffs.
+Consequently, the problem of making a predictive division in proself and prosocial types becomes extremely
+difficult, if not even impossible.
+[C] From these experiments, we can argue two conclusions: first, the observation of cooperation in one-
+shot social dilemmas without external controls suggests that the origin of cooperation lies in the human nature;
+second, the fact that the rate of cooperation depends on the payoffs suggests that it could be computed, at least
+approximatively, using only the payoffs. The word approximatively stands for the fact that numerous
+experimental studies have shown that cooperation is based on a number of factors, such as family history, age,
+culture, gender, even university course, religious beliefs, and decision time. Therefore, we cannot expect a
+theory able to say, given only the payoffs, the individual-level rate of cooperation in a social dilemma. We can
+expect instead a model predicting quite accurately population average behaviour using the mean value of
+parameters that could be theoretically updated at an individual-level.
+[ID] In this article we make the first step in this direction: (1) we develop the first predictive model of
+cooperation; (2) we show that it explains a number of puzzling experimental findings that are not explained by
+the standard economic model, such as the fact that the rate of cooperation in the Prisoner’s dilemma increases
+when the cost-benefit ratio decreases, the rate of cooperation in the Traveler’s dilemma increases when the
+bonus/penalty decreases, the rate of cooperation in the Public Goods game increases when the per capita
+marginal return increases, the rate of cooperation in the Chicken game is larger than the rate of cooperation in
+the Prisoner’s dilemma with similar payoffs; (3) we show that it makes satisfactorily accurate quantitative
+predictions of population average behaviour in social dilemmas.
+[E] We mention that there are many other models that can be applied to explain deviation towards
+cooperation in social dilemmas, including the cognitive hierarchy model, the quantal level-k theory, the level k-
+theory, the quantal response equilibrium, the inequity aversion models and the noisy introspection model.
+Nevertheless, all these models use free parameters and so they are not predictive, but descriptive.
+[F] The key idea behind the model is simple: since experiments suggest that humans have attitude to
+(
+XX ) by nature, we formalize the intuition that people do not act a priori as single agents, but they forecast
+how the game would be played ifthey formed coalitions and then act according to their most optimistic forecast.
+[G] We anticipate that forecasts will be defined by making a comparison between incentive and risk for an
+agent to deviate (or defect) from the collective interest. This comparison leads to associate a probability to the
+event “Agent i defects”. As mentioned, we will show that this procedure works satisfactorily well in the
+prediction of population average behavior. The problem in passing to individual-level predictions is that the
+event “Player i defects”, given only the payoffs, is not measurable at an individual-level in any universal and
+objective sense and the dream is to use the factors mentioned above (family history, age, culture, incentives,
+iterations, etc.) to define parameters to update the measure ofthe event “Player i defects” at an individual-level.
+In fact, an attempt to extend the present model to iterated social dilemmas has been reported, leading to
+promising results: predictions tend to get close to experimental data as the number of iterations increases.
+
+Altruism is formally defined as unilaterally paying a cost c = 0 to give a benefit b to another and is
+traditionally measured using a Dictator game. Here a dictator is given an endowment x > 0 and must then
+decide how much, if any, to donate to a recipient who was given nothing. The recipient has no input in the
+process and simply accepts the donation. Givings in the Dictator game are usually considered as an appropriate
+measure of altruism and recent experiments have shown that indeed they positively correlate to altruistic acts in
+real-life situations.
+The main difference between cooperation and altruism is that altruism is unilateral: there is no way to get
+rewarded. Another difference is that we allow altruist action at negligible cost. In other words, the important
+part is to create a benefit to someone else without getting anything back. Benevolence is an extreme form of
+altruism, where the final result of the act is that the recipient has a larger payoff of the actor.
+Examples of benevolence in everyday life abound. The sharing of one’s food causing the sharer to go
+hungry, campaigning on behalf of a VIP in order to promote their agenda, or something as trivial as ‘liking’ or
+sharing a status on social networks so as to increase the reputation of another.
+{Adapted from: Capraro, V., Smyth, C., Mylona, K., & Niblo, G.A. (2014). Benevolent Characteristics Promote Cooperative
+Behaviour among Humans. PLoS ONE 9/8), e102881.]
+
+In 1992, Northern Cod populations fell to 1% ofhistorical levels, due in large part to decades ofoverfishing.
+The Canadian Federal Minister of Fisheries and Oceans,
+John Crosbie, declared a moratorium on the Northern
+Cod fishery, which for the preceding 500 years had primarily shaped the lives and communities of Canada’s
+eastern coast. A significant factor contributing to the depletion ofthe cod stocks offNewfoundland’s shores was
+the introduction of equipment and technology that increased landed fish volume. From the 1950s onwards, new
+technology allowed fishers to trawl a larger area, fish more in-depth, and for a longer time. By the 1960s,
+powerful trawlers equipped with radar, electronic navigation systems, and sonar allowed crews to pursue fish
+with unparalleled success, and Canadian catches peaked in the late-1970s and early-1980s. Cod stocks were
+depleted at a faster rate than could be replenished.
+The trawlers
+also caught enormous amounts
+of non-commercial
+fish, which were economically
+unimportant but very important ecologically. This incidental catch undermined the stability of the ecosystem by
+depleting stocks of important predator and prey species.
+Approximately 37,000 fishermen and fish plant workers lost their jobs due to the collapse of the cod
+
+fisheries; many people had to find new jobs or further their education to find employment.
+
+Algorithms for finding prime numbers date back at least as far as ancient Greece, where mathematicians used a
+straightforward approach known as the Sieve of Eratosthenes. The Sieve of Eratosthenes works as follows: To find
+all the primes less than ヵ, begin by writing down all the numbers from 1 to ヵin sequence. Then cross out i(that/
+of / all / multiples / are / numbers / the) 2, besides itself. Take the next smallest number that hasn’t been crossed
+out and cross out all multiples of that number. Keep going like this, and the numbers that 2(the / the / end /
+remain / are / at / primes).
+For millennia, the study ofprime numbers was believed to be one ofthe most useless branches ofmathematics.
+But it lurched into practicality in the twentieth century, becoming pivotal in cryptography and online security. As
+it happens, it is much easier to 3(than / factor / multiply / them / primes / together / to) back out. With big enough
+primes—say, a thousand digits—the multiplication 4(done / be / fraction / in / a / can / of) a second while the
+factoring could take literally millions of years; this makes for what is known as a “one-way function.” In modern
+encryption, for instance, secret primes known only to the sender and recipient s(multiplied / to / create / huge /
+get / composite / together) numbers that can be transmitted publicly without fear, since factoring the product would
+take any eavesdropper way too long to be worth attempting. Thus, virtually all secure communication online—be
+it commerce, banking, or email—begins with a hunt for prime numbers.
+{Adapted from: Christian, B. & Griffiths, T. (2016). Algorithms to Live By: The Computer Science ofHuman Decisions, William
+Collins.]
+
+Among the questions that attracted interest in that fanatically inquisitive age was one that had puzzled
+people for ( 1 ) very long time一( A
+), why ancient clam shells and other marine fossils were so often found
+on mountaintops. How on earth did they get there? «Those who thought they had a solution fell into two
+opposing camps. One group, known as the Neptunists, were convinced that everything on the Earth, including
+seashells in improbably lofty places, could be explained by rising and falling sea levels. They believed that
+mountains, hills and other features were as old as the Earth itself, and were changed only when water sloshed
+over them during periods of global flooding.
+Opposing them were the Plutonists, who noted that volcanoes and earthquakes, among other enlivening
+agents, continually changed (ii ) face of the planet, but clearly owed nothing to wayward seas. (iii ) Plutonists
+also raised awkward questions about where all ( iv
+) water went when it wasn’t in flood. If there was enough of
+it at the time to cover the Alps, then where, pray, was it during times of tranquility, such as now? Their belief
+was that the Earth was subject to profound internal forces as well as surface ones. (
+B
+), they couldn’t
+convincingly explain how all those clam shells got g there.
+(
+C
+)puzzling over these matters that Hutton had a series of ( v ) exceptional insights. From looking at
+his own farmland, he could see that soil was created by the erosion of rocks and that particles of this soil were
+continually washed away and carried off by rivers and streams and redeposited elsewhere.
+[Adapted from: Bryson, B. (2003). 4 short history ofnearly everything. Broadway Books.]
+
+(1)
+Although few studies have investigated the effect ofmindset on acquiring musical skill, there is reason
+to think it could play a role.
+(2)
+Although mindset correlated significantly with only one practice factor (organization of practice/
+record keeping), it also correlated significantly with task motivation, which reflects a person’s drive
+to master new material.
+(3)
+This pattern of correlations is consistent with the hypothesis that mindset is related to one’s propensity
+to practice, which in turn enhances skill acquisition.
+(4)
+Smith (2005) examined correlations between mindset,
+goal
+orientation, and practice
+in 344
+‘
+undergraduate instrumentalists.
+(5)
+In turn, task motivation correlated significantly with a composite factor representing degree of
+engagement in a variety of practice activities.
+[B] Domain-specific ability factors also appear to play an important role in the acquisition ofmusical skill. For
+instance, Ruthsatz et al. (2008) found that scores on the Advanced Measures ofMusic Audiation (Gordon, 1989),
+a measure of auditory discrimination ability, predicted music achievement in high school band members
+(r= 0.22,
+p=.01).
+[C] Numerous studies have examined the relation between non-ability factors and skill acquisition in complex
+tasks. Recently, however, there has been a great deal of interest in whether skill acquisition can be predicted by
+people’s beliefs, or mindset, about their abilities. In a series of studies, Dweck and colleagues reported that
+people with a growth mindset, who believe that their ability in
+a domain can be changed with effort, showed
+higher levels of achievement than people with a fixed mindset, who believe that their ability is unchangeable.
+Nevertheless, a recent meta-analysis by Sisk, Burgoyne, Sun, Butler, and Macnamara (2018) revealed that the
+average relationship between mindset and academic achievement is relatively weak (r = 0.10, p < .001).
+[D] People differ in the rate at which they acquire complex skills. Music is no exception. As is well known,
+some people develop musical skill far more rapidly than others, with prodigies at one extreme, and people with
+congenital amusia at the other.
+[E] There have been many reports of significant associations between domain-general ability factors and
+musical skill. For example, in a study of 178 high school band members, Ruthsatz, Detterman, Griscom, and
+Cirullo (2008) found that scores on a test of fluid intelligence (Raven’s Advanced Progressive Matrices)
+correlated significantly with music achievement (r = 0.25,
+p=.01).
+[F] What accounts for the striking inter-individual variability in acquiring musical and other complex skills?
+This question can be framed in terms of a distinction between ability and non-ability factors. Ability factors
+refer to stable skills or capacities and can be domain-general or domain-specific. Domain-general abilities (e.g.,
+working memory capacity) can be brought to bear on a wide range of tasks, whereas domain-specific abilities
+(e.g., music aptitude) are applicable to a relatively narrow range of tasks. Non-ability factors include
+dispositional attributes such as personality, motivation, attitudes, interests, and beliefs. At least in theory, tests
+ofability factors capture maximal performance, whereas tests ofnon-ability factors capture typical performance.
+[Adapted from: Burgoyne, A. P., Harris, L. J.,
+& Hambrick, D. Z. (2019). Predicting piano skill acquisition in beginners:
+The role of general intelligence, music aptitude, and mindset. Intelligence. 76, 101383.]
+
+Being able to detect and avoid fallacies has been viewed as a supplement to criteria of good reasoning. The
+knowledge of fallacies is needed to arm us against the most enticing missteps we might take with arguments.
+Following are some common fallacies.
+The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has
+occurred at least twice in an argument, such that on the first occurrence it has one meaning and on the second
+another meaning. A familiar example is:
+The end of life is death. Happiness is the end of life. So, death is happiness.
+‘The end of life’ first means ceasing to live, then it means purpose. That the same set ofwords is used twice
+conceals the fact that the two distinct meanings undermine the continuity of the reasoning, resulting in a non-
+sequitur.
+The fallacies ofcomposition and division occur when the properties ofparts and composites are mistakenly
+thought to be transferable from one to the other. Consider the two sentences:
+a. Every member of the investigative team was an excellent researcher.
+b. It was an excellent investigative team.
+Here it is ‘excellence’ that is the property in question. The fallacy of composition is the inference from (a)
+to (b) but it need not hold if members of the team cannot work cooperatively with each other. The(
+A
+)
+inference from (b) to (a)—the fallacy of division
+一may also fail if some essential members of the team have a
+supportive or administrative role rather than a research role.
+There are a number of fallacies associated with causation. The most frequently discussed is post hoc ergo
+propter hoc. This fallacy ascribes a causal relationship between two states or events on the basis of temporal
+succession. For example,
+Unemployment decreased in the fourth quarter because the government eliminated the
+gasoline tax in the second quarter.
+The decrease in unemployment that took place after the elimination of the tax may have been due to other
+causes; perhaps new industrial machinery or increased international demand for products.
+
+Research has found that human learning often follows a simple mathematical function. For example, visual
+tasks such as the improvement in time taken to read an inverted text or the time taken to identify multiple targets
+in a page of letters have been found to follow this function. It also appears to hold for motor tasks like those
+where the cursor needs to be placed on an object which appears on a computer screen.
+This relationship between the number of times a task is completed and the time taken to complete the task
+is represented by Equation (1) below. That is, plotting the logarithm of the time to perform a task against the
+logarithm of the number of times the task has been completed yieldsa straight line. It is called the power law
+of practice:
+T=aN~?,
+(1)
+where T is the time to complete a task, がis the number of times the task has been completed, and a and
+are
+positive constants.
+The implication is as the number of times a task is completed increases, the learning benefit diminishes.
+For example, perhaps there is a 10-second difference in the time taken to complete a task between the first and
+second practice. The difference in time taken might only be | second between the 100" and the 101 completion.
+Suhaib (2018) attempted to determine if learning to type Japanese followed the power law of practice and
+found that the number of Japanese characters that non-native speakers could type in a minute increased as the
+participants practiced more. In the beginning they could only type an average of 10 characters per minute. By
+the time they had completed 10 trials, they could type 20 characters per minute. Finally, after 20 trials they were
+able to type 23 characters per minute.
+[Adapted from: Newell, A. & Rosenbloom, P. S. (2013). Mechanisms of skill acquisition and the law of practice. In Cognitive skills
+and their acquisition. Psychology Press.]
