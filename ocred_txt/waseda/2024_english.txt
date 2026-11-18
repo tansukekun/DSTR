@@ -1,0 +1,615 @@
+2024
+R06180017
+lL
+2.
+3. 2 11
+4
+HB HB
+5.
+1
+2
+W OB OF
+< 《
+6.
+7.
+8.
+9.
+10.
+Part I. Read Text I, Text If, and Text III and choose the best option froma dfor questions 1 — 15.
+Text I
+A In 2019 there were 3,800 publicly disclosed data breaches, a significant increase over time. As
+security officers work to reduce the likelihood of breaches, there is an ongoing concern over the lack of user
+compliance with information security policies. Informational security policies depend on user compliance to
+protect computing resources. When users are lax with security measures and fail to follow security related
+directives, data breaches are more likely to occur. It is possible that users have capitulated and have decided
+that data breaches are inevitable and therefore their actions will not be effective in preventing data breaches in
+their organization.
+B In business, feelings of capitulation have been described as resulting from a perceived lack of control
+and autonomy. In psychology, capitulation is considered an end state occurring when individuals realize they
+cannot change their undesirable reality and do not have control of a detrimental situation. The inverse of this
+definition can be applied to organizational security, when users feel that they have control over technologies
+and that they possess greater autonomy, they are much more likely to constructively take part in individual
+security management and not give up. When users feel they lack control and autonomy and that security
+controls are centralized, they are inclined to ignore technologies aimed at securing the organization.
+C Organizational security has historically been controlled by policy making, placing the burden of
+security compliance on the end user; however, this has led some security researchers to suggest that the “user
+is not the enemy” Adams and Sasse, 1999. Authoritarian responses to security produce conflict between the
+organization’s security interests and end users security behaviors. The manner in which users deal with these
+conflicts may include feelings of giving up, disengagement or capitulation. Often capitulation is viewed as a
+response to difficulty and equated to feelings ofhelplessness causing a person to fail to engage. Capitulation is
+defined here as the feeling of giving up or not acting because the behavior would not be productive or
+successful.
+D Some research has supported the idea of negative security effects on employees and others report
+negative reactions based on punishment for information security policy violations which then lead to a
+reduction in the individual’s intent to comply. D’Arcy et al. 2014 considered that when organizations make
+employees responsible for computer security, they introduce stress into the work environment. These stressors
+may produce moral disengagement resulting in a lack of concern. D’Arcy et al. 2014 showed how
+organizational security expectations can fail due to moral disengagement. Of interest, employees experiencing
+security overload, complexity and uncertainty may turn to moral disengagement. These diminished security
+behaviors may be due to the time,
+effort and frustration employees
+feel causing employee
+security
+requirements to fail. Moral disengagement may lead to an appraisal of commitment to the information security
+policy. Capitulation may be the result, affecting information security policy noncompliance in organizations.
+Whether users reduce their efforts, stop trying, take on new pursuits, look for other meaningful behaviors or
+disengage from complying with information security policies, the end result is a reduction in security.
+E Distrust is defined as the feeling that someone or something cannot be relied upon. An individual
+experiencing distrust feels they cannot accept another’s statements or actions
+at face value. They are
+suspicious and feel that people are out to deceive them. Distrust has been characterized as having negative
+expectations, and distrust has been linked to fear, wariness and suspicion. Interestingly,
+distrust can be
+associated with a person, place or thing and it can be valuable in preventing exploitation.
+authoritarian security responses.
+d. Increases in capitulation and autonomy lead to centralized security controls.
+2. Which ofthe following may result in a lack of concern for organizational security?
+a. organizations failing to punish employees for security violations
+b. employers introducing stressors which may lead to moral disengagement
+c. decreasing the likelihood for an appraisal of commitment to the organizations’ security policies
+d. decentralizing security controls within an organization
+3. Why can distrustful people benefit an organization?
+a. They are more fearful.
+b. They experience more negative feelings.
+c. They feel that others cannot be relied upon.
+d. They are more aware of threat actors.
+4.
+What does the word capitulation mean in the text?
+a. autonomy
+b. end state
+c. giving up
+d. having control
+5. Which ofthe following would the authors likely recommend for improving security?
+a. End users treating the organization as the enemy.
+b. Encouraging end user disengagement from security procedures.
+c. Organizations providing more autonomy to end users.
+d. Responding to capitulation using authoritarian means.
+6. Which ofthe following may be included in computing resources as mentioned in paragraph A?
+a. end users
+b. data breaches
+c. user compliance
+d. cell phone PC applications
+7. What type of feelings are associated with trust or distrust?
+a. Negative feelings are associated with distrust.
+b. Positive feelings are associated with distrust.
+c. Negative feelings are associated with trust.
+d. Feelings are not associated with trust or distrust.
+8. Which ofthe following best describes the relationship between trust and distrust?
+a. Trust and distrust are often the same concept.
+b. Trust and distrust are associated with fear.
+c. Increasing trust levels does not necessarily lead to decreased levels of distrust.
+d. Positive feelings often lead to decreased levels oftrust and distrust.
+9. Paragraphs A— H ofthe text can be grouped into three parts: i — A, ii BCD, and iit — EFGH. Which
+of the following best describes the roles ofthese three parts?
+a. i reviews the main topic ofthe text, ii outlines the main topic in terms of capitulation, and iii
+defines the main topic in terms oftrustdistrust.
+b. i explains some background research, ii describes one method of establishing organizational security,
+and iii describes a competing method.
+c. i defines some key terms for the entire text, ii explains how one ofthese terms relates to
+organizational security, and iii describes an alternative but controversial term.
+d. i contextualizes the entire text, ii explains one fundamental concept related to establishing
+organizational security, and iii describes a related concept.
+—
+3
+Text I
+Information systems IS security administrators are responsible for keeping their information assets and
+systems safe from insider crimes’ potential risks. Organizations have adopted two major strategies to prevent
+employees from committing insider attacks:
+1
+stimulating employees’ conscience and 2
+adopting
+techniques to reduce the opportunity of committing crimes. IS security administrators have curbed their
+employees’ motivation for committing insider crimes.
+IS security administrators need to eliminate the environmental opportunities that can be considered a
+crack for insiders’ malicious attempts. According to the rational choice theory, malicious insiders are willing
+to commit malfeasances only when the expected rewards of malicious behaviors outweigh the anticipated
+risks or costs. Thus, IS security administrators need to focus on increasing costs and decreasing the anticipated
+benefits ofmalicious behaviors. This security policy is less likely to induce malicious insiders to put their plan
+into action i.e., electronic monitoring and surveillance, access control, installing physical barriers, not solely
+relying on dealing with the internal motivations of insiders.
+However, this approach at the organizational level is inherently coupled with the possibility of infringing
+on each employee’s space. As there will be more restrictions imposed on each individual’s actions, it may
+undermine the trustbased bilateral relationship between employees and employers. Moreover, employees
+having no choice other than consenting to the organizational policy might be problematic because of a
+massive bargaining power gap between employees and employers in this bilateral relationship.
+Despite the seemingly nonexistent problems in procedures, employees have been forced to contract out
+their privacy rights even with their full awareness of the policy’s potential to infringe on their personal spaces.
+Such a tremendous bargaining power gap may lead employees to have negative reactions, such as computer
+abuse. These reactions are potential adverse effects on organizational efforts that aim to minimize the
+opportunity of committing a crime from the perspective ofmalicious insiders.
+Adapted from: Jeong, M., & Zo, H. 2021. Preventing insider threats to enhance organizational security: The role of opportunity
+reducing techniques. Jelematics and Informatics, 63, 101670.
+Questions 10 — 12 refer to Text I and Text II.
+10. Electronic monitoring and surveillance of end users by organizations mentioned in Text II is an example of
+which concept from Text I?
+a. organizational capitulation
+b. punishments for information security violations
+c. authoritarian responses to security
+d. benefits used to increase security compliance
+11. Violating an employee’s space most likely leads to which ofthe following outcomes from Text I?
+a. moral engagement
+b. capitulation
+c. authoritarian responses
+d. security compliance
+12. Rational choice theory predicts which ofthe following outcomes?
+a. Employees are less likely to commit malfeasances against organizations when the potential rewards and
+costs are approximately equal.
+b. IS security administrators will focus on increasing benefits and decreasing costs for malicious insiders
+to prevent malfeasances.
+c. IS security administrators will focus on increasing environmental opportunities and costs for malicious
+insiders to prevent malfeasances.
+13. Which conclusion can be drawn from the information provided in Text I and Text II?
+a. The same individual or different individuals may be trusting or distrusting depending on the context in
+which a decision is made.
+b. Different individuals but not the same individual may be trusting or distrusting depending on the
+context in which a decision is made.
+c. Recommender agents build trust among individuals with varied backgrounds regardless ofthe context
+in which a decision is made.
+d. Recommender agents lessen distrust for individuals with varied backgrounds in all contexts in which a
+decision is made.
+14. Users who lack understanding and autonomy when interacting with technology may experience which of
+the following?
+a. abuse
+b. suspicion
+c. awareness
+d. trust
+15. Which ofthe following best describes the relationships between Texts I, II, and III?
+a. Text I introduces two principles of organizational security and Texts II and III describe them in more
+detail.
+b. Texts I and II explain some principles in organizational security while Text HI exemplifies one ofthe
+principles.
+c. Texts I, II, and III each define different principles of organizational security and Text III addresses a
+specific case.
+d. Text I explains the principles of organizational security, Text IT explains an alternative view, and Text IJ
+links the views.
+Part II. Read the passage and rearrange the seven words in 1 — 5 in the correct order. Then choose from
+a— d the option that contains the third and fifth words.
+From the point of view of strict logic, a rigorous course on analysis* should precede a course on calculus*.
+Strict logic is, however, overruled by both history and practicality. Historically, calculus, with its origins in the
+17th century, came first, and made rapid progress on the basis of informal intuition. Not until well through the
+19th :claim/ that / it
+/ possible / was / to / century the theory was constructed on sound logical foundations.
+As for practicality, every university teacher knows that students are not ready for even a semirigorous course
+on analysis until they have acquired the intuitions and 2come/ that / sheer / skills / from / technical / the a
+traditional calculus course. Analysis, I have always thought, is the pons asinorum the bridge of asses, that is,
+a critical test of ability that separates the clever from the foolish of modern mathematics. This shows, I
+suppose, 3we / in
+/ much / have / progress / how / made two thousand years, for it is a great deal more
+sophisticated than the Theorem of Pythagoras, which once received that title. All who have taught the subject
+know how patient one has to be, for the ideas take root gradually, even in students of good ability. This is not
+too surprising, «than / two / it/ since / took / more / centuries for calculus to evolve into what we now call
+analysis, and even a gifted student, guided by an expert teacher, cannot be expected to grasp all oftheissues
+immediately. I have not set out to do anything very original, since in a field as wellestablished as analysis,
+—_ 5
+originality too easily becomes eccentricity. Although it is important to demonstrate the limitations of a visual,
+intuitive approach by means of some “strange” examples of functions, too much emphasis on “pathology”
+gives altogether the sis / of / about / what / impression/ analysis / wrong. I hope I have avoided that error.
+Adapted from: Howie, J. M. 2001. Real Analysis. Springer.
+*analysis the branch of mathematics concerned with the theory of functions, the use of limits, and the operations of
+calculus
+*calculus the branch ofmathematics that deals with derivatives <fx and integrals f fxdx of functions
+1.
+a. 3rd: was
+b. 3rd: to
+c. 3rd: it
+d. 3rd: to
+Sth: to
+Sth: it
+5th: to
+5th: was
+2.
+a. 3rd: that
+b. 3rd: technical
+c. 3rd: come
+d. 3rd: sheer
+5th: technical
+5th: that
+5th: sheer
+5th: come
+3.
+a. 3rd: progress
+b. 3rd: have
+c. 3rd: we
+d. 3rd: progress
+5th: have
+5th: progress
+5th: progress
+Sth: we
+4.
+a. 3rd: than
+b. 3rd: more
+c. 3rd: took
+d. 3rd: since
+5th: took
+5th: since
+5th: than
+3th: more
+5.
+a. 3rd: what
+b. 3rd: of
+Cc. 3rd: about
+d. 3rd: analysis
+5th: about
+5th: analysis
+5th: what
+5th: of
+Part UI. Answer the questions in Sections A and B.
+Section A: Read the text and choose the best option from a — d for questions 1 — 6.
+Suppose you’ve started an online furniture store that specializes in various types of sofas. Some are
+A
+to customers because of their comfort and others because of
+i
+price. Is there anything you can
+think to do that would incline visitors to your website to focus on the feature of comfort and, consequently, to
+prefer to make a sofa purchase that prioritized it
+B
+cost?
+You’ve no need to labor long for an answer, because two marketing professors, Naomi Mandel and Eric
+Johnson, have provided
+C
+ina
+set of studies using just such an online furniture site. When Mandel
+began the research project in the late 1990s, the impact of virtual stores such as Amazon and eBay was only
+beginning to
+D
+. But how to optimize
+ii
+success within this form of exchange had not been
+addressed systematically.
+In an article largely overlooked since it was published in 2002, they described how they were able to
+draw website visitors’ attention
+E
+the goal of comfort merely by placing fluffy clouds on the
+background wallpaper ofthe site’s landing page. iii maneuver led those visitors to assign elevated levels
+of importance to comfort when asked what they were looking for in
+iv
+sofa.
+Adapted from: Cialdini, R. 2016. Presuasion: A Revolutionary Way to Influence andPersuade. Random House Books.
+1.
+Which of the blanks i, ii, iii, and iv must be filled with the article “A/a” or “An/an’’?
+a.l
+b. ii
+C. fil
+d. iv
+5 We found a similar effect in older adults 6080 years with 4 weeks of playing improving memory
+ability such that it matched performance of participants 15—20 years younger.
+B One clear aspect ofmany modern video games is that they provide a novel, rich world to explore. Decades
+of neuroscience research dating back to pioneering efforts by Donald Hebb Hebb, 1947 have shown that
+simply placing laboratory animals in enriched environments improves cognitive performance within a wide
+range ofunderlying neurobiological mechanisms.
+C Thus, there is substantial neurobiological evidence to support the idea that environmental enrichment,
+even from video games, might have a positive effect on the hippocampus and the memory abilities it supports.
+D Video games and Esports do not always enjoy a positive view in our society, despite the popularity of
+video games and the rising impact of Esports. Yet, at their core, modern video games often provide incredibly
+rich cognitive experiences, opportunities for problem solving, for competition, for teamwork, and for social
+interaction. As a result, gaming and Esports have the potential to provide considerable positive effects to the
+brain.
+E This “environmental enrichment” can not only ameliorate agerelated effects on memory and structures in
+the brain like the hippocampus, known to support memory, but it has been shown to reduce the presence of
+both the amyloidbeta plaques and the neurofibrillary tangles in mouse models of Alzheimer's Disease, rescue
+deficits in hippocampal neurogenesis and synaptic plasticity, improve hippocampalbased memory, and
+upregulate neurotrophic factors important to environmental enrichment and hippocampal neurogenesis.
+Adapted from: Stark, C. E. L., Clemenson, G.D., Aluru, U., Hatamian, N., & Stark, S. M. Playing Minecraft Improves
+HippocampalAssociated Memory for Details in Middle Aged Adults. Frontiers in Sports andActive Living, 3, 685286.
+7. Which ofthe following shows the best most coherent sentence order for paragraph A?
+a. 31542
+b. 21453
+c. 41253
+d. 52314
+8. Which ofthe following shows the best most coherent paragraph order for the passage?
+a. BDEAC
+b. DABEC
+c. BAEDC
+d. DBECA
+—_—_— 7
+Part IV. Read the texts in Sections A and B and answer the questions.
+Section A: Choose the best option from a — d for questions 1 — 5.
+Ignatius Loyola, a nobleman, soldier, and later a priest, at the beginning of his only book, Spiritual
+Exercises, proposed a ground rule, termed the presupponendum. It reads:
+“Every good Christian ought to be more eager to put a good interpretation on a neighbour's statement
+than to condemn it. Further, if one cannot interpret it favourably, one should ask how the other means it. If that
+meaning is wrong, one should correct the person with charity; and if this is not enough, one should search out
+every appropriate means through which, by understanding the statement in a good way, it may be saved.”
+Obviously, Ignatius wrote it for Christians, and only in a specific context. However, we will try to show
+that this may serve as an inspiration for creating a procedure
+which preserves all the insights leading to the principle of 1. RETRIEVE
+charity while allowing us to learn from encounters with If one cannot interpret it favourably, then:
+different epistemic perspectives and substantially improving 2. ASK
+one’s own worldview.
+If that meaning 1s wrong, then:
+Within Ignatius’ rule we may distinguish four steps, 3. CORRECT
+which in fact amount to a procedure of “presupposing,” Ifthis is not enough, then
+which will be very useful for modelling a dialectical 4. FIND OTHER WAY
+principle of charity, as shown on the right.
+Adapted from: Prus, J., & Sikora, P. 2023. The Dialectical Principle of Charity: A Procedure for a Critical Discussion.
+Argumentation.
+1. Which ofthe following would be most consistent with the RETRIEVE step when arguing with someone?
+a. Reject the statements that you favor and accept the ones you don’t.
+b. Question them until you get enough information to understand their position.
+c. Point out how their statement is wrong with a focus on logical error.
+d. Consider how to understand what they have said in a good way.
+For the discussion below and questions 25, P, Q, and R are propositions statements in an argument, and the
+prime mark ' indicates a modified version of a proposition.
+Jaime: P is true.
+Sydney: thinks: P is false Do you really mean ___is true?
+Jaime: YesImean
+jstme.
+Sydney: But isn’t it the case that notP is true? Do you mean P' is _?
+Jaime: Yes, you’reright.
+istrue.
+Sydney: thinks: Do I believe P' is true? It contradicts Q. Is Q false?
+2.
+Ifthe discussion follows Ignatius’ presupponendum, which of the following best fits in the four blanks,
+respectively?
+a. Q, Q, false, Q
+b.P P true, P'
+c. PP' true, Q
+d. P', Q, false, P
+3. Which lines in the discussion correspond to the CORRECT step?
+a. line
+b. lines
+c. line ©
+d. lines ©©
+mentally, then it is possible for you to succeed, because doing so does not require you to hold
+B
+new
+information in your working memory at once. But there is stil a chance you will make errors, because you do
+have to use your working memory to remember a few things. You can solve this problem several ways; the
+following is probably the most common:
+7x 642.
+Put 2 down, carry 4.
+7x 428.
+Add
+4 to 28 32.
+© Remember you had put 2 down.
+© Thus, the final answeris
+C_.
+Whatever method you use to calculate this, you have to hold one piece of information in your working
+memory while you work out the next piece. Then you have to recall the first piece of information because you
+need to do something that involves using it and the second piece together. It is typical when solving problems
+like this to forget the result of the first calculation by the time you have got to the end of the last calculation.
+Multiplying a threedigit number by a onedigit number would test working memory even further.
+And if you are asked to solve the problem
+D
+mentally, you almost certainly will not succeed. It is not
+that you do not know how to solve the problem; it is that solving it involves you holding far too many new
+pieces of information in your working memory at once.
+Adapted from: Christodoulou, D. 2014. Seven Myths about Education. Routledge.
+6.
+Which ofthe following best fits in blank A?
+a.47 x6
+b. 7 x 40
+c.6x7
+d. 46 x 7
+7.
+Which ofthe following best fits in blank B?
+a. enough
+b. too much
+c. a little
+d. any
+8.
+Which ofthe following best fits in blank C?
+a. 30
+b. 34
+c. 232
+d. 322
+9.
+In the given example solution, which is a plausible pair ofvalues for it and the second piece, respectively,
+at some point in working out the problem?
+a. 28, 42
+b. 6, 7
+c. 4, 28
+d. 2, 28
+10. Which ofthe following best fits in blank D?
+a. 410,000
+x 2
+b.
+x x 1,000
+c. 23,759
+x 42
+d.3 x 1,111,111
+——_
+9
+———_.
+Part V.
+For questions 1 — 15, two definitions are given with one sample sentence each. Think of a word that
+matches both definitions and also fits in the blanks in both sentences. Convert each letter of the word
+into a number1 to 4 according to the table below: number 1 represents letters a — g, 2 represents h — m,
+3 represents m — s, and 4 represents ¢ — z. Then choose the matching sequence of numbers from options
+a — d. For example, if the word you think of is wise, for which the first letter w is given, the remaining
+letters would be changed into 2 for i, 3 for s, and J for e. Hence, the correct answer would be 237.
+4 Itwmwwxwz
+1.
+a
+to fasten or hold something in place: The truck driver r
+Jed the load on the truck with a chain.
+i1 to control a strong urge or emotion: The tour guide couldn’t r
+her anger at the tourist’s rude
+behavior.
+a. 71343123
+b. 7134131
+c. 1124123
+d. 71131341
+2.
+i
+to oppose something: The expert’s testimony at trial c
+ed the testimony given earlier by the main
+eyewitness.
+ii in formal logic, a proposition that cannot possibly be true: The proposition A is B and A is not B is a
+logical c
+zoz.
+a. 6234223214
+b. 334311214
+c. c32331114
+d. c23124
+3.
+i
+a surface connecting two levels of different heights: The construction worker had to maneuver the
+load carefully along a narrow i
+to reach the upper floors.
+ii to have a tendency to do or be something: If motivated, the professor was i
+d to keep lecturing
+well past the end of the class hour.
+a. 144421321
+b. 723231134
+c. 7312231
+d. 711341
+4.
+i money that is specially provided for a project: The researchers were extremely pleased that their
+multimillion dollarg
+proposal had been accepted.
+ii to allow something: The neighborhood zoning committee g
+ed permission for the construction of a
+new children’s nursery and playground.
+a. 313
+b. g213
+c. g3134
+d. g3112
+5.
+i
+rough: The rock had a very
+surface.
+ii severe or rigorous: The winter conditions at the top ofthe mountain were very
+.
+a. 41332
+b. 432234
+c. hA12144
+d. h34
+6.
+i
+an organization or agency usually dedicated to education or research: When the error was discovered,
+of c
+s who came to strengthen their faith.
+a.c2231
+b. c232242
+c. c241
+d. c334134
+11.⑪
+a numerical code that identifies a location: After receiving the c
+s over the radio, the navigator
+determined their location and found they were way off course.
+ii to oversee or manage some project or effort: Because of the huge commitment involved, nobody
+wanted toc
+the organization’s annual fundraising drive.
+a. c24141233
+b. c3331314
+c. c333123141
+d. c1212141
+12. i
+to suggest something as a logical result: The experimental findings i
+d that a longaccepted theory
+was in doubt and needed reexamination.
+ii to bring into an incriminating connection: The executive was i
+d in the scheme to avoid paying
+taxes by offshoring company income.
+a. 12322
+b. 123221141
+c. 13211411
+d. 133311341
+13. i of or related to the end of life: We were devastated to learn that our pet had late stage 7
+cancer and
+would probably not live more than a few more weeks.
+ii a station or port that represents the end of a transportation line: Due to the stormy weather, the ferry
+reached the t
+over two hours late.
+a. 144212232
+b. 3221123
+c. 34332321
+d. #1322312
+14. i
+the background or situation in which an event occurs: Thes
+for the opening scene of the film is a
+university graduation ceremony in the mid20" century.
+ii the parameters under which a machine or mechanism operates: After you open your browser, you'll
+need to change certain s
+_s in order to make it run more securely.
+a. 6144231
+b. 51332431
+c. s3313224
+d. 53134332
+15.G
+soundness of a person’s moral character: While many in the public cast strong suspicions on them, the
+board oftrustees showed i
+in their honest dealings with the matter.
+ii the quality or state of being whole or complete: The waves buffeted the ship during the heavy storm,
+but its structural i
+held and it completed its journey safely.
+a. 1443421343
+b. 334113244
+c. 333332313
+d. 121333213
+End of Exam
+v
+V
+V VSC
+SOGSOGSOGSOGSOGS0GS0SS6
+SGS OSSOSSOSSOGS00000000080 7WENN
+eee
+se
+—rt—“—__C_isfrmsfsétfr
+0
+7 0
+00
+_
+.coeoe
+—rt—“—‘iFié—é—i_ihim
+—rs—EOCri
+Co
+0D
+—r—“—_O__—s_ssa
+a
+.0
+—rti—“‘“iO_OCOCC_CTCs.#
+Cri“iéiCONCC_sFKs_ses
+.io
+—r—“‘COisir_ss2
+SX00
+0
+__
+0
+0
+——r—“_OCCSse
+§0ie
+※
+ueCee
+_
+i.0
+—rt—‘“OCiérétéisCsCCCCisFCs
+—ri—“<_iCCTt—tCTrit—mm
+—r—“‘COiéstiCitCsé—tfrmW
+i§s
+_
+# ##
+Os
+—r—“_OTC__mssF
+DP
+a
+—r—_HsésSXM<3<Sé3SéS S SCS
+_
+6oe
+§—_sS
+aeoe
+0
+—er—smMWMW—sm—T_isFF
+—esr__sM—s___s‘
+_

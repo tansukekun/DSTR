@@ -1,0 +1,830 @@
+SiG} AINE ETB
+2h
+HR
+fa
+fl
+202646
+FE
+R 08200017
+B
+1.
+2.
+2 11
+3.
+HB HB
+4.
+1
+2
+WWCEB OB
+OF OR
+5.
+6.
+7.
+8.
+9.
+II
+1
+Part I. Based on Text I, Text II, and Text III, choose the best option from a — d for questions 1 — 15.
+Text I
+Introduction
+Vertical farming is a modern agricultural practice ofgrowing crops, stacked vertically in a protected indoor
+environment, which mainly utilizes a hydroponic or aeroponic cultivation system. Vertical farming offers
+numerous potential benefits, including more efficient uses of space, reduced water usage, shorter growing times,
+reduced need for pesticides/herbicides, and shelter from extreme weather. In addition, since vertical farms can
+be set up practically anywhere, even underground, they could enable hyperlocalised production, thus shortening
+food supply chains and providing fresh and nutritious local foods all year around.
+Vertical farming: Mitigation for food security
+Urbanisation has continuously increased worldwide and 55% ofthe world’s population inhabits urban areas.
+Whilst the population of rural areas residents is expected to drop by 11% in 2030, the number of urban
+settlements will be continuously increased. As the demand for food supply in city residents has increased, smart
+urbanvertical farming has been highlighted. Urban agriculture mitigates societal, environmental and economic
+challenges related to food security owing to controlled and optimal growing conditions such as temperature,
+humidity, CO2 and lighting conditions. It eventually contributes to shortening the growing cycle and increasing
+plant density and enhancing harvest yield. Owing to urban accessibility, urban agriculture alleviates energy and
+expenses for transportation, distribution and storage management, and enables the reduction of the carbon
+footprint of food crops.
+According to Armanda et al. 2019, several countries in Europe and Asia and the United States ofAmerica
+have been practising commercialised vertical farming systems. Unlike conventional controlled environmental
+agriculture such as glasshouse cultivation with natural sunlight, indoor vertical farming is based on fully
+controlling and monitoring the growing condition including artificial light sources with a high yield in less space.
+Farms vary in location, such as underground, in abandoned areas or on rooftops, reflecting that each farm applies
+distinctive technologies for specific microenvironments. Overall, urban agricultural farms focus on growing
+leafy vegetables with a high annual food production. Vertical farming has been widely employed in East and
+Southeast Asian countries, including China, Japan, Singapore and South Korea. In North America, the USA and
+Canada feature several urban farm projects. The AeroFarms is based in New Jersey and it is one of the largest
+indoor vertical farms in the world with 8400 square metres ofgrowing space using an aeroponic growing system.
+Because of the significant rate of urbanisation, urban agriculture is rapidly developing and practised in
+Asian countries. However, there are several challenges to its implementation in Asia. For instance, there is a
+lack of arable areas in urban or periurban regions and significant requirements for residential areas as opposed
+to urban farms. Varying legislation and regulations in different regions also hinder the urban agriculture
+development. Although urban agriculture faces several challenges, numerous examples have shown that urban
+agriculture not only delivers food crops successfully but also provides environmental e.g. provision of
+biodiversity and sustainability in urban areas and socioeconomic benefits e.g. leisure, education and reduction
+of transportation for food crops.
+In European countries, urban agriculture is expected to handle the societal transformations of both urban
+and rural areas, such as ageing and generational renewal in the agriculture. There are several successful
+commercialised urban farms in Northwest European countries including Belgium, France, Germany, the
+Netherlands, Sweden, and the United Kingdom.
+The importance of urban agriculture/vertical farming
+is significant in low and lowmiddleincome
+countries such as in subSaharan Africa and parts of Southern Asia. Unlike in high or highmiddleincome
+countries, urban agriculture has greatly impacted small growers since it is practised for the purpose of self
+sufficiency in low and lowmiddleincome countries. Therefore, there are relatively few urban agriculture
+projects on a large scale, such as at the community or national level. However, recent urban agricultural
+programmes have attempted to enhance food security and mitigate the adverse effects on the environment based
+on an understanding of the current barriers to urban agriculture, including formal settlement issues, rights of
+property and distance from urban farms to food retailers.
+Adapted from: Oh, S. & Lu, C. 2022. Vertical farming smart urban agriculture for enhancing resilience and sustainability in food
+security. The Journal ofHorticultural Science and Biotechnology, 982, 133—140.
+———
+—
+Questions 1 — 9 refer to Text I.
+1.
+What is a key benefit of urban agriculture/vertical farming in low and lowmiddleincome countries?
+a. It restricts recent urban agricultural programs to enhance food security.
+b. It enhances the selfsufficiency of smallscale farming efforts.
+c. It resolves various propertyrelated issues between urban farms and retailers.
+d. It has relatively few largescale projects at the community or national level.
+2.
+Which of the following is NOT identified as one of the benefits of vertical farming?
+a. It reduces transportation costs and therefore carbon footprint.
+b. It increases plant density and harvest yield over time.
+c. It protects plants and other agricultural products against extreme weather.
+d. It fulfills the demand for food supply in city residents.
+3.
+Which of the following is consistent with the meaning of the subheading, “Vertical farming: Mitigation for
+food security”?
+a. In order to increase or intensify food security, we should reduce or alleviate vertical farming.
+b. Food security and vertical farming should both be eliminated or eradicated.
+c. Vertical farming is
+a means by which food security may be increased or intensified.
+d. The creation or initiation of food security begins with vertical farming.
+4.
+Which of the following crop combinations would most likely be found in an urban agricultural farm?
+a. cabbage, lettuce, and spinach
+b. wheat, corn, and potatoes
+c. pineapples and bananas
+d. soybeans and peanuts
+5.
+Which ofthe following is closest in meaning to “arable”?
+a. able to be bought or sold quickly
+b. easily convertible for private use
+c. usable for agricultural purposes
+d. having plenty of clean, fresh air
+6.
+How is vertical farming expected to promote energy efficiency?
+a. It reduces the need for local energy sources such as solar and wind power.
+b. It increases the availability of sunlight, wind, and water for other purposes.
+c. It increases job opportunities for a larger number of urban dwellers.
+d. It minimizes fuel consumption as farms would be closer to food supply chains.
+7.
+Which of the following would be the LEAST likely location in a city to convert into a vertical farm,
+assuming no regulatory restrictions?
+a. a park that is frequently used by the public
+b. the basement of a community center or school
+c. an abandoned warehouse
+d. the rooftop space of a nontoxic factory
+8.
+What is implied as the reason for the ongoing rise in urban agriculture?
+a. The perperson rate of food consumption is rapidly increasing.
+b. Rural agriculture is decreasing in Asia, Europe, and North America.
+c. There is a rapid increase in the number of urban settlements.
+d. The number of people in the world is increasing.
+9.
+Which of the following best describes the information structure of the text?
+a. First, vertical farming is defined, and then its advantages and disadvantages are explained.
+b. Vertical farming is introduced as an example of urban agriculture and the differences between the two in
+different countries are explained.
+c. Vertical farming is explained as a possible solution to changing climate conditions and then suggestions
+are given for how it may be addressed worldwide.
+d. The main topic of vertical farming is introduced, and then its implementation in different regions of the
+world is discussed.
+Text IT
+Reducing food wastage, which comprises food loss and food waste, and capturing more of the food that is
+produced for human consumption is an obvious opportunity to increase food security without increasing the
+environmental burden of production. Food loss is the decrease in edible food mass, which occurs at production,
+—___
+3
+postharvest and processing stages in the food supply chain, while food waste refers to what is lost at retail and
+by consumers. Recovering food loss and waste is a huge opportunity to reduce production demand, given that
+about 1.6 billion tonnes of food is wasted along the chain and of this 1.3 billion is edible. The relative amounts
+of food loss and food waste in various regions vary. Food loss is the major contributor to food wastage in
+developing countries. This is in contrast to developed countries where waste primarily occurs at the retail and
+consumer end of the food supply chain.
+Food science and technology hasa significant role to play in achieving food and nutrition security. Food
+preservation and stabilisation technologies to extend shelf life of products e.g. processing techniques such as
+drying to reduce water activity, heat treatment or high pressure processing to reduce microbial load or
+fermentation to reduce pH underpin the ability of food to be made accessible and safe and are integral to the
+sustainability of the food supply and reducing food waste. Good postharvest handling practices from farm to
+retail, including supporting logistics and infrastructure, can mitigate against the loss of fresh produce. This is
+becoming increasingly relevant as the food produced in rural areas has to reach the growing population in urban
+areas and megacities. This results in increased pressure for the optimisation of the distribution of food flows,
+improved access to appropriate modes of transportation, infrastructure, and better management of cool chain
+logistics, to ensure sustainable food supply.
+Adapted from: Cole, M. B., August, M. A., Robertson, M. J., & Manners, J. M. 2018. The science of food security. Science of Food,
+2, 14.
+Questions 10 — 12 refer to Text I and Text II.
+10. Which of the following statements is best inferred from the texts?
+a. Vertical farming was developed to reduce microbial load and fermentation.
+b. Vertical farming leads to the reduction of food loss.
+c. Vertical farming was developed to improve food preservation and stabilization.
+d. Vertical farming leads to the reduction of food waste.
+11. Which of the following is the most reasonable way to see the relationship between urban agriculture and
+food wastage?
+a. Both urban agriculture and reducing food wastage can be essential components in maintaining food
+security.
+b. Urban agriculture and food wastage are in a reciprocal relationship where if one increases, the other
+decreases.
+c. The effort to optimize food wastage requires the development of urban agriculture as they are causally
+dependent.
+d. In an optimal food security policy, either urban agriculture or reducing food wastage may be useful but
+not both.
+12. Which of the following themes is covered in both texts?
+a. Urbanization plays a crucial role in food systems and their efficiency.
+b. Improving logistics management is important for optimizing food distribution.
+c. Selfsufficiency can be promoted through vertical farming within cities.
+d. The optimization of food waste at retail can address the challenges related to food security.
+Text II
+Excessive dependency on imports for food supply is considered a risk factor for Japan’s national food
+security. The Ministry of Agriculture, Forestry, and Fisheries MAFF, 2006 established a contingency plan to
+secure food supplies for domestic consumption in emergencies. This plan was put into place to achieve national
+food security as defined in the Basic Law, which had been revised the year before. MAFF defined 2,000
+kcal/person/day about 20% less than usual as the minimum calorie intake. The plan included several measures
+to secure the calorie intake, such as promoting domestic production, managing emergency stocks, and
+controlling food markets. Among the crops, rice has been the most important commodity for Japan. In 2004,
+rice comprised 23% of the population’s total caloric intake, followed by wheat, which contributed 13% of the
+total. The government keeps large emergency stocks of rice and other major crops to secure the food supply,
+while making continuing efforts to increase the country’s food selfsufficiency rate.
+High trade barriers on rice have played an important role in the achievement of an almost 100% self
+sufficiency rate for rice. Proponents of these trade barriers argue that they are necessary to maintain the overall
+4
+selfsufficiency rate of food because the supply of other foods depends heavily on imports. Even though trade
+theories imply gains from trade, proposals for free rice trade have never been accepted in Japan because free
+trade lowers the food selfsufficiency rate, and thereby increases the dependency of the food supply on imports,
+which is supposed to make the food supply less secure.
+Adapted from: Tanaka, T. & Hosoe, N. 2013. Does agricultural trade liberalization increase risks of supplyside uncertainty?: Effects
+of productivity shocks and export restrictions on welfare and food supply in Japan. In Tanaka, T., Hosoe, N., & Qiu, H. Eds, Risk
+assessment offood supply: A computable general equilibrium approach. Cambridge Scholars Publishing.
+Questions 13 — 15 refer to Text I, Text I, and Text ITI.
+13. What is the most likely result of adopting all of the following three policies?
+i
+Increasing subsidies for vertical farming.
+ii Expanding technologies for utilization of unused restaurant food.
+iii Restricting the free trade of rice.
+a. a decrease in food waste
+b. an increase in food waste
+c. a decrease in the food selfsufficiency rate
+d. an increase in the food selfsufficiency rate
+14. The concept “food security” is mentioned in all three texts but is never defined. Which of the following
+would be the best definition of the concept, consistent with all three texts?
+a. The ability of a country’s population to produce enough food domestically to sustain itself while relying
+heavily on imports.
+b. A stable access to the quantity of food that people need without any restrictions on quality or nutrition.
+c. The availability at all times of affordable and nutritious food for everyone in a country or region.
+d. A situation where every person has access to sufficient, safe, and nutritious food to meet their dietary
+needs and preferences for an active and healthy life.
+15. How do Texts I, II, and III relate to each other?
+a. All three texts relate to the problem of food security: Text
+I and Text I describe specific methods to
+promote it, while Text III discusses the specific situation in one region.
+b. All three texts are concerned with urban agriculture: Text I discusses it directly while Text II and Text
+III explain the direct implications of it.
+c. All three texts are concerned with promoting a certain policy proposal, but only Text I and Text I are
+explicit about what they propose.
+d. All three texts explain government policy as it relates to food development and distribution in countries,
+and Text III argues for a specific government policy position.
+Part II. Read the passage and rearrange the seven words in 1 — 5 in the correct order. Then choose from
+a —d
+the option that contains the third and fifth words.
+It is at first the / difficult/ idea / to / sight / accept / that each ofthe living creatures described in Chapter 1
+is merely a chemical system. The incredible diversity of living forms, their seemingly purposeful behavior, and
+their ability to grow and 2set / reproduce / from / to / them / apart / appear the world of solids, liquids, and
+gases that chemistry normally describes. Indeed, until the nineteenth century animals were believed to contain
+a Vital Force — an “animus” — that was responsible for their distinctive properties.
+We now know there is 3organisms / in / chemical / disobeys / living / nothing / that and physical laws.
+However, the chemistry of life is special. First, it is based overwhelmingly on carbon compounds, whose study
+is therefore known as organic chemistry. Second, cells are 70 percent water, and life depends largely on chemical
+reactions that take place in aqueous solution. Third, and most important, cell chemistry is enormously complex:
+even the simplest cell is vastly 4chemistry / any / its / than / complicated / in / more other chemical system
+known. Although cells contain a variety of small carboncontaining molecules, most ofthe carbon atoms in cells
+are incorporated into enormous polymeric molecules — chains of chemical subunits linked endtoend. It is the
+unique scells / enable / of / macromolecules / these / that / properties and organisms to grow and reproduce —
+as well as to do all the other things that are characteristic of life.
+Adapted from: Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P 2008. Molecular Biology ofthe Cell Sth
+Edition. Garland Science.
+5
+1.
+a. 3rd: idea
+b. 3rd: accept
+c. 3rd: to
+d. 3rd: the
+Sth: accept
+5th: idea
+5th: the
+Sth: to
+2.
+a. 3rd: set
+b. 3rd: to
+c. 3rd: apart
+d. 3rd: to
+Sth: them
+Sth: apart
+Sth: them
+5th: them
+3.
+a. 3rd: that
+b. 3rd: living
+c. 3rd: chemical
+d. 3rd: disobeys
+5th: in
+5th: that
+5th: that
+Sth: organisms
+4.
+a. 3rd: in
+b. 3rd: complicated
+c. 3rd: in
+d. 3rd: its
+5th: chemistry
+5th: its
+5th: any
+5th: than
+5.
+a. 3rd: these
+b. 3rd: that
+c. 3rd: of
+d. 3rd: these
+Sth: of
+Sth: of
+Sth: that
+Sth: that
+Part III. Answer the questions in Sections A and B.
+Section A: Read the text and choose the best option from a — d for questions 1 — 6.
+When I began my search for an answer to the puzzle of why the best firms can fail, a friend offered some
+sage advice. “Those who study genetics avoid studying humans,” he noted. “Because new generations come
+along only every thirty years or so, ittakes
+i long time to understand the cause and effect of any changes.
+Instead, they study fruit flies, because they are conceived, born, mature, and die all within a short time frame.
+If you want to understand why something happens in business, study the disk drive industry. Those companies
+are the closest things
+A
+fruit flies that the business world will
+B
+see.” Indeed, nowhere in the
+history of business has there been an industry like disk drives,
+C
+changes in technology, market structure,
+global scope, and vertical integration have been so pervasive, rapid, and unrelenting. While this pace and
+complexity might be a nightmare for managers, my friend was right about its being fertile ground for research.
+This chapter summarizes the history of the disk drive industry in all its complexity. Some readers will be
+interested in it for
+i
+sake of history itself. But the value of understanding this history is that out of its
+complexity emerge a few stunningly simple and consistent
+D
+repeatedly determined the success and
+failure of the industry’s best firms. Simply put,
+E
+the best firms succeeded, they did so because they
+listened
+responsively
+to
+their customers
+and
+invested
+aggressively
+in
+the technology,
+products,
+and
+manufacturing capabilities that satisfied their customers’ nextgeneration needs. But, paradoxically,
+E
+the
+best firms subsequently failed, it was for the same reasons—they listened responsively to their customers and
+invested aggressively in the technology, products, and manufacturing capabilities that satisfied their customers’
+nextgeneration needs. This is one of the innovator’s dilemmas: Blindly following the maxim that good
+managers should keep close to their customers can sometimes be
+iii
+_ fatal mistake. The history of the disk
+drive industry provides a framework for understanding when “keeping close to your customers” is iv
+good advice—and when it is not.
+Adapted from: Christensen, C. M. 1997. The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail. Harvard
+Business Review Press.
+1.
+Which of the following best fits in blank A?
+a. by
+b. for
+c. to
+d. with
+2.
+Which of the following best fits in blank B?
+a. ever
+b. yet
+c. never
+d. already
+3.
+Which of the following best fits in blank C?
+a. that
+b. where
+c. while
+d. which
+4.
+Which of the following best fits in blank D?
+a. factor that has
+b. factors that will have
+c.factor that had
+d. factors that have
+5.
+Which of the following best fits in the two blanks labeled E?
+a. that
+b. since
+c. though
+d. when
+6.
+Which ofthe blanks i, ii, iii, and iv must be filled with the article ‘a’?
+a. i and iii only
+b. ii and iv only
+c. 111 and iv only
+d. i, ii, and iti only
+—— 6 ——
+Section B: The five paragraphs A E below make up a passage but are not properly ordered. Moreover,
+the five sentences 1 — 5 in paragraph A are not properly ordered, either. Read the passage and choose
+the best option from a — d for questions 7 and 8.
+A
+1
+According to a study carried out several years ago at the U.S. National Cancer Institute, only about
+33% ofnew drugs are entirely synthetic and completely unrelated to any naturally occurring substance.
+2
+Unmodified natural products isolated directly from the producing organism account for 24% of
+NMEs, while natural products that have been chemically modified in the laboratory account for the
+remaining 28%.
+3
+Where do the new drugs come from?
+4
+Vaccines and genetically engineered proteins of biological origin account for 15% ofNMEs, but most
+new drugs come from naturalproducts, a catchall term generally taken to mean small molecules found
+in bacteria, plants, algae, and other living organisms.
+5
+The remaining 67% take their lead, to a greater or lesser extent, from nature.
+B If the drug is one of the 25% of the original group that make it to the end of phase III, all the data are then
+gathered into
+a New Drug Application NDA and sent to the
+FDA for review and approval, which can take
+another 2 years. Ten years have elapsed and at least $500 million has been spent, with only a 20% success rate
+for the drugs that began testing. Finally, though, the drug will begin to appear in medicine cabinets.
+C Human testing takes, or should take, 5 to 7 years and is divided into three phases. Phase clinical trials are
+carried out on a small group of healthy volunteers to establish safety and look for side effects. Several months
+to a year are needed, and only about 70% of drugs pass at this point. Phase II clinical trials next test the drug for
+1 to 2 years in several hundred patients with the target disease or condition, looking both for safety and efficacy,
+and only about 33% of the original group pass. Finally, phase III trials are undertaken on a large sample of
+patients to document definitively the drug’s safety, dosage, and efficacy.
+D It has been estimated that major pharmaceutical companies in the United States spent some $200 billion on
+drug research and development in 2020, while government agencies and private foundations spent another $28
+billion. What does this money buy? From 1983 to 2022, the money resulted in a total of 1237 new molecular
+entities NMEs—new biologically active chemical substances approved for sale as drugs by the U.S. Food and
+Drug Administration FDA.
+E Many years of work go into screening many thousands of substances to identify a single compound that
+might ultimately gain approval as an NME. But after that single compound has been identified, the work has
+just begun because it takes an average of 9 to 10 years for a drug to make it through the approval process. First,
+the safety of the drug in animals must be demonstrated and an economical method of manufacture must be
+devised. With these preliminaries out of the way, an Investigational New Drug IND application is submitted
+to the FDA for permission to begin testing in humans.
+Adapted from: McMurry, J. 2023. Organic Chemistry. Houston, Texas: OpenStax. https://openstax.org/details/books/organic
+chemistry
+7.
+Which of the following shows the best most coherent sentence order for paragraph A?
+a. 45213
+b. 31542
+c. 23145
+d. 13245
+8.
+Which of the following shows the best most coherent paragraph order for the passage?
+a. DBACE
+b. CBEDA
+c. DAECB
+d. CADBE
+Part IV. Read the texts in Sections A and B and answer the questions.
+Section A: Choose the best option from a —d for questions 1 — 5.
+Explanatory virtues are aspects ofan explanation that generally make it strong. There are many explanatory
+virtues, but we will focus on four. A good hypothesis should be explanatory, simple, and conservative and must
+have depth.
+The word “explanatory” simply means that it must explain all the available evidence. A good explanation
+is often simple. You may have heard of Occam’s razor, formulated by William of Ockham 12871347, which
+says that the simplest explanation is the best explanation. Ockham said that “entities should not be multiplied
+beyond necessity” Spade & Panaccio 2019. By “entities,” Ockham meant concepts or mechanisms or moving
+parts.
+Examples of explanations that lack simplicity abound. For example, conspiracy theories present the very
+opposite of simplicity since such explanations are by their very nature complex. Conspiracy theories must posit
+plots, underhanded dealings, coverups to explain the existence of alternative evidence, and maniacal people
+to explain phenomena and to further explain away the simpler explanation for those phenomena. Conspiracy
+theories are never simple, but that is not the only reason they are suspect. Conspiracy theories also generally
+lack the virtues of being conservative and having depth.
+A conservative explanation maintains or conserves much of what we already believe. Conservativeness in
+science is when a theory or hypothesis fits with other established scientific theories and explanations. For
+example, a theory that accounts for some physical phenomenon but also does not violate Newton’s first law of
+motion is an example of a conservative theory. On the other hand, accepting a conspiracy theory requires
+rejecting a wide range of beliefs, and so the theory is not conservative.
+A conspiracy theorist may offer alternative explanations to account for the tension between their
+explanation and established beliefs. However, for each explanation the conspiracist offers, more questions are
+raised. And a good explanation should not raise more questions than it answers. This characteristic is the virtue
+of depth. A deep explanation avoids
+, or an explanation that itself is in need of explanation.
+Adapted from: Smith, N. 2022. Introduction to Philosophy. Houston, Texas: OpenStax.
+https://openstax.org/details/books/introductionphilosophy
+1.
+Imagine the following: Luke came home to find his kitchen a mess and his pet dog acting guilty. According
+to Occam’s razor, which of the following would be the WORST explanationofthe situation?
+a. A thief broke in, surprising Luke’s dog. He tied up the dog, searched for money, untied the dog, and left.
+b. Luke forgot to leave some food for his dog and so the dog searched the kitchen to find something to eat.
+c. One of Luke’s roommates accidentally left the kitchen door open before going out to work for the day.
+d. The dog, who is usually not allowed in the kitchen, managed to get in and excitedly made a mess.
+2.
+Imagine the following: A scientist discovered
+a new phenomenon that had not been observed before. She
+published a paper that describes some aspects of the phenomenon clearly using theories found in earlier
+papers. Which virtue is most demonstrated in her work?
+a. explanatory
+b. simple
+c. conservative
+d. deep
+3.
+Which of the following best fits in the blank in the last paragraph?
+a. questionable questions
+b. unquestioned questions
+c. explained explanations
+d. unexplained explainers
+4,
+Imagine the following: The normally dry town of Red Rock experienced a sudden rainstorm. Which of the
+following alternative explanations raises more questions than it answers?
+a. Climate scientists conducted a controlled weather experiment.
+b. An underground group used secret weather manipulation technology.
+c. The government tested new climate control measures.
+d. An atmospheric phenomenon brought warm air from a tropical region.
+5.
+Which of the following can be inferred from the text?
+a. A single hypothesis cannot violate several explanatory virtues at once.
+b. Although not identified as such, Occam’s razor is a fifth explanatory virtue.
+c. The depth virtue is the least important of the four explanatory virtues.
+d. Conspiracy theories violate more than one of the explanatory virtues.
+—
+8
+Section B: Choose the best option from a — d for questions 6 — 10.
+A stemandleaf display or stemandleaf plot is a device for presenting quantitative data in a graphical
+format, similar to a histogram, to assist in visualizing the shape of a distribution. They evolved from Arthur
+Bowley’s work in the early 1900s, and are useful tools in exploratory data analysis. Stemandleaf displays
+became more commonly used in the 1980s after the publication of John Tukey’s book on exploratory data
+analysis in 1977. The popularity during those years is attributable to their use of monospaced typewriter
+typestyles that allowed computer technology of the time to easily produce the graphics. Modern computers’
+superior graphic capabilities have meant these techniques are less often used.
+To construct a stemandleaf display, the observations must first be sorted in ascending order: this can be
+done most easily if working by hand by constructing a draft ofthe stemandleaf display with the leaves unsorted,
+then sorting the leaves to produce the final stemandleaf display.
+Next, it must be determined what the stems will represent and what the leaves will represent. Typically, the
+leaf contains the last digit of
+a number and the stem contains all of the other digits. In the case of very large
+numbers, the data values may be rounded to a particular place value such as the hundreds place that will be
+used for the leaves. The remaining digits to the left of the rounded place value are used as the stem.
+The stemandleaf display is drawn with two columns separated by a vertical line. The stems are listed to
+the left of the vertical line. It is important that each stem is listed only once and that no items are skipped, even
+if it means that some stems have no leaves. The leaves are listed in increasing order in a row to the right of each
+stem.
+{Adapted from: Wikipedia contributors. 2025, May 7. Stemandleaf display. In Wikipedia, The Free Encyclopedia.
+https://en. wikipedia.org/wiki/Stemandleaf_display
+6.
+Based on the text, which ofthe following sets of data would be best visualized with a stemandleaf display?
+a. the ages of players in a national soccer team
+b. locations of convenience stores in a city
+alabdeghi1mnrstwxy
+c. the national flags of different countries
+bj aeioy
+d. students’ opinions about the future ofAI
+4 Meio
+7. Based on the information in the text, which of the following reasons best
+f TE
+explains the decline in use of stemandleaf displays today?
+B iou
+.
+.
+aeimo
+a Modern computers have simpler user interfaces.
+ildfnost
+b. Modern computers have superior graphic capabilities.
+2 ao
+c. Modern computers can process textual and numerical data.
+1
+d. Modern computers can use a range of typestyles.
+m aeimouy
+8
+Based on the information in the text, which of the following is required to
+o bdefhikmnoprsuwxy
+display a numerical stemandleaf display?
+q ‘a
+a. The stem column contains the last digit of the number.
+Ple
+b. The lower ranked items are removed.
+sjhiot
+tjaeto
+c. The numbers are ordered from the smallest to the largest.
+ul ghmnprst
+d. The leaf column contains rounded values.
+v co
+9. Figure shows a stemandleafdisplay ofvalid twoletter words in the Collins
+y iu
+Scrabble Words board game. Which of the following statements iiii are
+Z aeo
+implied from the display?
+.
+i
+The three most common initial letters are ‘a’, ‘e’, and *o’.
+Figure I: Stemand
+ii
+No twoletter words begin with ‘v’.
+leaf display of valid
+iii The words ‘ha’, ‘ki’, and ‘wo’ are all valid words, but ‘se’ is not.
+twoletter words in
+a. i only
+b. i and ii only
+the Collins Scrabble
+c. ii and iii only
+d. i, ii, and iti
+Words board game.
+10. Which ofthe following properties does the stemandleaf display in Figure
+1 NOT have?
+a. It gives the reader a quick overview of the word distribution.
+b. It shows the words most commonly used in the board game.
+c. It allows all the raw data to be recovered.
+d. It highlights the exceptional cases.
+Part V. For questions 1 — 15, two definitions are given with one sample sentence each. Think of a word
+that matches both definitions and also fits in the blanks in both sentences. Convert each letter of the word
+into a number to 4 according to the table below: number 1 represents letters a — g, 2 represents h — m,
+3 represents n — s, and 4 represents 7 z. Then choose the matching sequence of numbers from options
+a — d. For example, if the word you think of is wise, for which the first letter w is given, the remaining
+letters would be changed into 2 for i, 3 for s, and / for e. Hence, the correct answer would be 237.
+4
+ltmwwmwz
+1.
+i
+to show to be right or reasonable: This framework is the first to theoretically
+7
+_the use of regression
+methods.
+ii to free from blame or guilt: The recent increases in the prices of gasoline j__ the largescale protests.
+a. 713322
+b. 7434214
+c. 7213112
+d.82134
+2.
+i
+aplan of work or action: The experimental results confirm the superiority of the proposed s_.
+ii a secret agenda: The opposition party had prepared a s__ aiming at the collapse of the current
+government.
+a. 841333
+b. 52244233
+c. s12121
+d. s343223
+3.
+i
+not showing off one’s abilities or achievements: She's always been 7™__ when it comes to her art skills.
+ii not very large in quantity or amount: After years of struggling, the small business finally experienced a
+m__ success.
+a. 32344431
+b. m13412
+c. m113433414
+d. m31134
+4.
+i
+apossible result or effect of an action: The conclusions of the study have i__s affecting a wide range
+of research fields.
+ii involvement in the cause of a situation: The suspect challenged his i__ in the crime.
+a. 713121
+b. 13214122
+c. 441222334233
+d. 12322114233
+5.
+i
+to seize or hold something or someone firmly with your hands: He tried to g__ the slippery fish with
+his bare hands, but failed again.
+i1 to comprehend something fully: She finally g__ed the concept after watching a video explanation.
+a. 23133
+b. g34231
+c. g3114
+d. g23213421
+6.
+i
+what one wants to achieve or an aim in life or work: The company’s 0__ is to increase sales by 10%
+each year.
+ii based on facts and not influenced by personal feelings or opinions: He gave an o__ review of the
+movie without bias.
+a. 0442231
+b. 012114241
+c. 0333234122
+d. 023142
+7.
+i
+to move an object to a different position: Energy is needed to d__ water from a tank.
+ii to force to move away: The disaster prevention policies will d__ people from their hometowns.
+a. d334212
+b. d411223
+c. 22332111
+d. d12421314
+8.
+4
+to handle or use skillfully: Objects having a surface that is too smooth are not easy to m_.
+ii to alter or adjust information for one own’s sake: An employee cannot m__ evidence that possibly
+leads to her eventual punishment.
+a. 132342141
+b. m4132211
+c. m231134
+d. m3212431134
+9.
+i being kept from falling or sinking in a fluid: Bacteria *_egin aqueous solution are essential for natural
+degradation of organic matter.
+11 to postpone or put a temporary stop to: The court decision was s__ed due to a sudden electricity fault.
+a. $21343
+b. 5131212
+c. 8433131
+d. 5342213
+10. i
+a piece of magic that is performed by saying certain words or performing specific actions: The wizard
+cast a magic s__ to make the flowers bloom.
+ii to say or write out the letters of a word in their correct sequence: The teacher helped students s__
+difficult words in class.
+a. 51241
+b. s3122
+c. 4341232
+d. 534342
+11.⑪
+an action for harmonizing: Some a__s were made so that the opinions were included in the final draft.
+ii a place for staying for a while: To secure a__, early registration and reservation are recommended.
+a. a113223114233
+b. a412342
+c. a3 12314233
+d. a214213311344
+12. i
+to act or be in accordance with: Previous research found that people may c__ to society ifthey perceive
+obvious benefits.
+ii agreement with rules or standards: After moving to a new country, the family had to make efforts to
+behave in c__ity with the expectations of neighbors.
+a. c212324
+b. c143231
+c. c4111221
+d. c331332
+13. i
+unison or cooperation: In c__ with its allies, the country decided to oppose the enforcement of tariffs
+on trade with its neighbors.
+ii a musical performance: The start of the c__ was delayed by over an hour due to the pianist’s late
+arrival.
+a. c331134
+b. c1213443
+c. 31343
+d. c11213
+14.⑪
+a prediction of the approximate amount or value: The new method can be applied in the accuratee
+of the optimum temperature.
+ii a judgment of worthiness: In the public’s e__, the first candidate was more suitable than the second
+candidate.
+a. e1412414233
+b. e342214233
+c. €22213233
+d. e431313233
+15. i
+two straight lines that are equidistant and never meet: The opposing edges of a square are, by definition,
+p__ to each other.
+ii similar or duplicate in nature: The problem faced in educational settings is p__ to that faced by parents
+in many other aspects of society.
+a. p3331134
+b. p 1443132
+c. 1312212
+d. p23221224
+{End of Exam
+8020808080ee020802000000 002
+nOetieeeee EOEOOSCee0
+2 2 0 000 0NO0
+00c20
+ean SEEKS EEN
+SASOSSOSSSS7OSS OOGSSOSS
+AGSOSSSSXSS CSSXOSS
+OS AA SSIES
+ISSN 00
+AA SSE
+ES
+2s aoe 02802020088020080SoGeSeee
+PeOO oie
+50850836 OSLe0020808020 USE
+ROSIER ERENE
+XS ile SENG 20 eee ee ;220 25060 coeSRR
+80 AO aMee aie PROS
+UOOD See
+OOCOO2
+Setet
+eeeNN
+SS:
+Ue UO
+eee EOEDE BEENOS
+SINENN
+0OONN
+ooeen0308080008020808 ekedOO
+SY
+y
+2
+x
+oe, we Wess
+;
+hv
+’
+>syy
+9
+Xs
+2
+0oeSAeeene20208020
+A
+A
+KAS
+RISA:
+AX
+/
+> x An My
+\/
+> A oy we XXS <
+X ee XK 2
+os\
+SS0GS0GS0SSOSS GSeinen Rea
+ae ne 0
+Sees Sou ene01620230c20OSESGe 0
+OSX Weer Snes
+6 SSIS oS estes SSXASSAXSS eeasi SOS SW cc < SO ce CSSX
+Ly00008000802000008000essote
+NO 0 00
+SUSU EOS 0020008080 ORMNEMeNOLeet 08800
+Y
+/
+/
+AS
+> a
+re
+<
+2
+SS ‘S
+Ns AA
+XS.
+mV
+AA
+Wes
+Se
+Y
+<
+2020800208020820802 20208302080208080302 AISNE Nom ANU MWe
+SeeGO0S06 2 RESO OO ORS RRRRRS
+XS2 Xoo Nee oie eee0we
+oe 2i.0 SS0OSBOOS:
+SEMIS
+NY SANS NSISieneWee ee De
+one
+aie
+Sey
+‘ ORL INS Yes} NSENXSENN: MS ooo MSM MORAY Wes YES SEY OKA SASS XS
+AYA
+eeee USSUSie
+ao UT ID
+Keeesrere iCee et
+030308080808000808086

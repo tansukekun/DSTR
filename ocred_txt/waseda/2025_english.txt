@@ -1,0 +1,744 @@
+Joe? GE EGRETARES
+He
+3H
+TR
+1
+fa
+eB
+2025
+R07190017
+1
+2. 2 11
+3.
+MSN,
+HBORMEE
+LH BOY ¥ TRY Y VCHATSCE.
+4.
+1
+2
+ORB OB
+<OR OR
+5.
+1
+2
+2
+3
+011213451671819
+6.
+7. $
+8.
+9.
+10.
+1
+Part I. Based on Text I, Text II, and Text III, choose the best option from a — d for questions 1 — 15.
+Text I
+A Social dilemmas are situations in which collective interests are at odds with private interests. In other
+words, they describe situations in which the fully selfish and rational behavior leads to an outcome smaller than
+the one the individuals would obtain if they acted collectively. Social dilemmas create then a tension between
+private interests and public interests, between selfishness and cooperation. Classically, several different social
+dilemmas have been distinguished, including the Prisoner’s dilemma, Public Goods, the Tragedy of the
+Commons, and, more recently, the Traveler’s dilemma. Each of these games has been studied by researchers
+from different disciplines, such as economists, psychologists, and political scientists, because of the intrinsic
+philosophical interest in understanding human nature and since many concrete and important situations, such as
+pollution, depletion of natural resources, and intergroup conflict, can be modelled as social dilemmas.
+B The classical approaches explain tendency to cooperation dividing people in proself and prosocial
+types, or appealing to forms of external control, or to longterm strategies in iterated social dilemmas. But, over
+the years many experiments have been accumulated to show cooperation even in oneshot social dilemmas
+without external control. These and other earlier experiments have also shown that the rate of cooperation in the
+same game depends on the particular payoffs, suggesting that most likely humans are engaged in some sort of
+indirect reciprocity and the same person may behave more or less cooperatively depending on the payoffs.
+Consequently, the problem of making a predictive division in proself and prosocial types becomes extremely
+difficult, if not even impossible.
+C From these experiments, we can argue two conclusions: first, the observation of cooperation in one
+shot social dilemmas without external controls suggests that the origin of cooperation lies in the human nature;
+second, the fact that the rate of cooperation depends on the payoffs suggests that it could be computed, at least
+approximatively, using only the payoffs. The word approximatively stands for the fact that numerous
+experimental studies have shown that cooperation is based on a number of factors, such as family history, age,
+culture, gender, even university course, religious beliefs, and decision time. Therefore, we cannot expect a
+theory able to say, given only the payoffs, the individuallevel rate of cooperation in a social dilemma. We can
+expect instead a model predicting quite accurately population average behaviour using the mean value of
+parameters that could be theoretically updated at an individuallevel.
+ID In this article we make the first step in this direction: 1 we develop the first predictive model of
+cooperation; 2 we show that it explains a number of puzzling experimental findings that are not explained by
+the standard economic model, such as the fact that the rate of cooperation in the Prisoner’s dilemma increases
+when the costbenefit ratio decreases, the rate of cooperation in the Traveler’s dilemma increases when the
+bonus/penalty decreases, the rate of cooperation in the Public Goods game increases when the per capita
+marginal return increases, the rate of cooperation in the Chicken game is larger than the rate of cooperation in
+the Prisoner’s dilemma with similar payoffs; 3 we show that it makes satisfactorily accurate quantitative
+predictions of population average behaviour in social dilemmas.
+E We mention that there are many other models that can be applied to explain deviation towards
+cooperation in social dilemmas, including the cognitive hierarchy model, the quantal levelk theory, the level k
+theory, the quantal response equilibrium, the inequity aversion models and the noisy introspection model.
+Nevertheless, all these models use free parameters and so they are not predictive, but descriptive.
+F The key idea behind the model is simple: since experiments suggest that humans have attitude to
+XX by nature, we formalize the intuition that people do not act a priori as single agents, but they forecast
+how the game would be played ifthey formed coalitions and then act according to their most optimistic forecast.
+G We anticipate that forecasts will be defined by making a comparison between incentive and risk for an
+agent to deviate or defect from the collective interest. This comparison leads to associate a probability to the
+event “Agent i defects”. As mentioned, we will show that this procedure works satisfactorily well in the
+prediction of population average behavior. The problem in passing to individuallevel predictions is that the
+event “Player i defects”, given only the payoffs, is not measurable at an individuallevel in any universal and
+objective sense and the dream is to use the factors mentioned above family history, age, culture, incentives,
+iterations, etc. to define parameters to update the measure ofthe event “Player i defects” at an individuallevel.
+In fact, an attempt to extend the present model to iterated social dilemmas has been reported, leading to
+promising results: predictions tend to get close to experimental data as the number of iterations increases.
+Adapted from: Capraro, V. 2013.
+A Model of Human Cooperation in Social Dilemmas. PLoS ONE, 88, e72427.
+2
+1
+Questions 1 — 9 refer to Text I.
+1. Which ofthe following best describes a “proselt' action?
+a. acting in a professional manner towards oneself
+b. working actively with other ‘selfs’
+c. acting in one’s own selfinterest
+d. seeking to maximize group payoff
+2. Which ofthe following best defines the term ‘payoffs’ as it is used throughout the text?
+a. the monetary rewards individuals receive for their expectations in a game or social dilemma
+b. the potential outcomes that can result from choices made by participants in a social dilemma
+c. the measures of an individual’s satisfaction derived from participating in a particular activity
+d. the relationship between an individual’s actions and their impact on others in a given scenario
+3. Why have classical approaches not been suitable for predicting when people will act cooperatively or not?
+a. In experiments, people may vary their level of cooperation depending on the anticipated reward.
+b. Few experiments have been done to look at how people cooperate in social dilemmas.
+c. People are divided into proself and prosocial types, but they keep this information private.
+d. Cooperation has remained difficult to define and to investigate in social experimentation.
+4.
+Which of the following statements best reflects the idea of ‘approximatively’ as it is used in the text?
+a. An archer's arrows group closely around a target.
+b.Aparachutist lands just short ofthe mark.
+c. Prisoners collaborate for the maximum payoff.
+d. A coalition of parties forms a government.
+5. What does the author state as their contribution to explaining social dilemmas in the present work?
+a. They forecast how incentives and risks will appear and disappear in social dilemma scenarios.
+b. They predict how the individuallevel rate of cooperation explains puzzling experimental findings.
+c. They explain how populations can be directed towards cooperation in social dilemmas.
+d. They propose a model of cooperation that aims to explain behavior at the level ofpopulations.
+6.
+Which of the following best fits in the blank labeled X in paragraph F?
+a. dilemmas
+b. prediction
+c. simplicity
+d. cooperation
+7. Which of the following best describes the model proposed by the author?
+a. an evolutionary model that examines how cooperation and defection strategies evolve over time in
+response to environmental pressures and population dynamics
+b. a gametheoretic approach where individuals make decisions based on maximizing their individual
+payoffs, assuming others will also act rationally
+c. a predictive model of cooperation, in which humans forecast how games would be played if they
+formed coalitions, then act according to their most optimistic forecasts
+d. a cognitive hierarchy model that explores the role of social cognition in decisionmaking processes by
+examining how individuals perceive and respond to hierarchical structures within a group context
+8.
+Which of the following is implied as a candidate for further investigation regarding the author’s model?
+a. How the model can include information about individuals to better predict whether each cooperates.
+b. Howa valid method of dividing people into proself and prosocial types can be determined.
+c. How agent defection directly influences the collective behavior of the group.
+d. Whether optimistic forecasts may be predictive as well as descriptive.
+9.
+Paragraphs A — G can be grouped into two parts: 1 ABC and ii DEFG. Which of the following best
+describes the roles of these two parts?
+a. i explains various concepts as background and introduces the main problem to be solved and ii
+explains the author’s solution to the problem as well as its limitations.
+b. i describes several social dilemmas that people face and how they resolve them and ii shows how
+these solutions to social dilemmas are valid due to people’s roles as single agents.
+c. i gives the background of models of dilemmas in society according to researchers and ii lists the
+incentives and risks that individuals have to consider when solving a social dilemma.
+d. i discusses the classical approaches to understanding payoffs in game theory and ii describes how
+one predicts how an individual will behave within any given social dilemma.
+——
+3
+Text H
+Altruism is formally defined as unilaterally paying a cost c 0 to give a benefit b to another and is
+traditionally measured using a Dictator game. Here a dictator is given an endowment x > 0 and must then
+decide how much, if any, to donate to a recipient who was given nothing. The recipient has no input in the
+process and simply accepts the donation. Givings in the Dictator game are usually considered as an appropriate
+measure of altruism and recent experiments have shown that indeed they positively correlate to altruistic acts in
+reallife situations.
+The main difference between cooperation and altruism is that altruism is unilateral: there is no way to get
+rewarded. Another difference is that we allow altruist action at negligible cost. In other words, the important
+part is to create a benefit to someone else without getting anything back. Benevolence is an extreme form of
+altruism, where the final result of the act is that the recipient has a larger payoff of the actor.
+Examples of benevolence in everyday life abound. The sharing of one’s food causing the sharer to go
+hungry, campaigning on behalf of a VIP in order to promote their agenda, or something as trivial as ‘liking’ or
+sharing a status on social networks so as to increase the reputation of another.
+{Adapted from: Capraro, V., Smyth, C., Mylona, K., & Niblo, G.A. 2014. Benevolent Characteristics Promote Cooperative
+Behaviour among Humans. PLoS ONE 9/8, e102881.
+Questions 10 — 12 refer to Text I and Text II.
+10. Which ofthe following best describes how Texts J and II differ in their approach to studying human behavior
+within social dilemmas?
+a. Text I uses quantitative predictions based on cultural factors, whereas Text II relies on qualitative
+observations of altruistic actions.
+b. Text I discusses cooperation across various games, while Text II focuses on altruistic actions through a
+specific experimental setup Dictator game.
+c. While Text I investigates the impact of individual differences on populationlevel behaviors, Text II
+examines how these same factors influence decisions in a oneshot scenario.
+d. The texts present a unified theory that encompasses both cooperation and altruism within social
+dilemmas without distinguishing between them.
+11. Which of the following correctly orders the four behavior types according to decreasing levels of concern
+for others in decision making?
+a. altruism, benevolence, proself, prosocial
+b. benevolence, altruism, prosocial, proself
+c. proself, prosocial, altruism, benevolence
+d. prosocial, altruism, proself, benevolence
+12. Which of the following best expresses how the author’s model in Text I might account for benevolence in
+social dilemmas?
+a. Some agents may act benevolently, but the population’s behavior could still be predicted.
+b. Benevolence deviates from prosocial behavior, so average payoffs of the scenario cannot be predicted.
+c. Individuallevel predictions for an actor’s benevolent behavior is the same in every social dilemma.
+d. Benevolent acts are not consistent with the model.
+Text HI
+In 1992, Northern Cod populations fell to 1% ofhistorical levels, due in large part to decades ofoverfishing.
+The Canadian Federal Minister of Fisheries and Oceans,
+John Crosbie, declared a moratorium on the Northern
+Cod fishery, which for the preceding 500 years had primarily shaped the lives and communities of Canada’s
+eastern coast. A significant factor contributing to the depletion ofthe cod stocks offNewfoundland’s shores was
+the introduction of equipment and technology that increased landed fish volume. From the 1950s onwards, new
+technology allowed fishers to trawl a larger area, fish more indepth, and for a longer time. By the 1960s,
+powerful trawlers equipped with radar, electronic navigation systems, and sonar allowed crews to pursue fish
+with unparalleled success, and Canadian catches peaked in the late1970s and early1980s. Cod stocks were
+depleted at a faster rate than could be replenished.
+The trawlers
+also caught enormous amounts
+of noncommercial
+fish, which were economically
+unimportant but very important ecologically. This incidental catch undermined the stability of the ecosystem by
+depleting stocks of important predator and prey species.
+Approximately 37,000 fishermen and fish plant workers lost their jobs due to the collapse of the cod
+4
+fisheries; many people had to find new jobs or further their education to find employment.
+Adapted from: Wikipedia contributors. “Collapse of the Atlantic northwest cod fishery.” Wikipedia, The Free Encyclopedia,
+1 May
+2024. Accessed on 11 Jun. 2024.
+Questions 13 — 15 refer to Text I, Text II, and Text III.
+13. If fishermen are taken as the individual participants in this social dilemma, which of the following is true of
+the fishermen’s actions with respect to the model described in Text I and the concepts described in Text II?
+a. They are consistent with the model because the fishermen apparently acted entirely out of selfinterest.
+b. They are not consistent with the model because the fishermen apparently did not consider their actions
+within the context of a coalition.
+c. They are not consistent with the model because altruism does not seem to have been considered a
+course of action by individual fishermen.
+d. They are consistent with the model because the fishermen’s behavior can be considered as a form of
+benevolence.
+14. Which of the following statements using concepts introduced in Texts I and II is true of the cod overfishing
+problem?
+a. Fishermen in the 1950s onward understood the benevolence associated with group cooperation, leading
+to accurate forecasts of others’ behavior.
+b. The prosocial acts of the Canadian government led to the altruism of some fishermen who gave up their
+jobs and left the industry.
+c. If many individual fishermen had behaved altruistically, the government would not have needed to
+declare a moratorium on cod fishing.
+d. If all of the fisherman had acted benevolently from the 1950s onward, then the problem would have
+been even worse.
+15. Which of the following expresses a valid analysis of a point from Text III with respect to concepts in Text I
+and Text II?
+a. The capture of noncommercial species of fish other than cod was motivated by the altruism of the
+fishermen seeking to minimize prey species and maximize the cod populations.
+b. The Canadian government’s declaration of a moratorium on cod fishing off the eastern coast of Canada
+was a benevolent act that saved the fishing industry in the long run.
+c. The introduction of technology that increased landed fish volume and allowed larger trawling areas,
+deeper fishing, and longer durations led to increased shortterm payoffs for fishermen.
+d. The loss of jobs by many in the fishing industry was due to their defection from participating in the
+overfishing of cod during the 1970s and early 1980s.
+Part Ul. Read the passage and rearrange the seven words in 1 — 5 in the correct order. Then choose from
+a —d
+the option that contains the third and fifth words.
+Algorithms for finding prime numbers date back at least as far as ancient Greece, where mathematicians used a
+straightforward approach known as the Sieve of Eratosthenes. The Sieve of Eratosthenes works as follows: To find
+all the primes less than , begin by writing down all the numbers from 1 to in sequence. Then cross out ithat/
+of / all / multiples / are / numbers / the 2, besides itself. Take the next smallest number that hasn’t been crossed
+out and cross out all multiples of that number. Keep going like this, and the numbers that 2the / the / end /
+remain / are / at / primes.
+For millennia, the study ofprime numbers was believed to be one ofthe most useless branches ofmathematics.
+_
+But it lurched into practicality in the twentieth century, becoming pivotal in cryptography and online security. As
+it happens, it is much easier to 3than / factor / multiply / them / primes / together / to back out. With big enough
+primes—say, a thousand digits—the multiplication 4done / be / fraction / in / a / can / of a second while the
+factoring could take literally millions of years; this makes for what is known as a “oneway function.” In modern
+encryption, for instance, secret primes known only to the sender and recipient smultiplied / to / create / huge /
+get / composite / together numbers that can be transmitted publicly without fear, since factoring the product would
+take any eavesdropper way too long to be worth attempting. Thus, virtually all secure communication online—be
+it commerce, banking, or email—begins with a hunt for prime numbers.
+{Adapted from: Christian, B. & Griffiths, T. 2016. Algorithms to Live By: The Computer Science ofHuman Decisions, William
+Collins.
+5
+1.
+a. 3rd: are
+b. 3rd: numbers
+c. 3rd: that
+d. 3rd: numbers
+Sth: all
+5th: are
+Sth: of
+Sth: all
+2.
+a. 3rd: the
+b. 3rd: primes
+c. 3rd: primes
+d. 3rd: the
+5th: are
+5th: are
+Sth: remain
+5th: primes
+3.
+a. 3rd: to
+b. 3rd: than
+c. 3rd: together
+d. 3rd: than
+5th: primes
+Sth: together
+5th: to
+5th: them
+4.
+a. 3rd:a
+b. 3rd: fraction
+c. 3rd: a
+d. 3rd: done
+Sth: of
+5th: done
+Sth: be
+Sth: a
+5.
+a. 3rd: composite
+b. 3rd: together
+c. 3rd: composite
+d. 3rd: multiplied
+Sth: multiplied
+5th: create
+5th: together
+5th: huge
+Part II. Answer the questions in Sections A and B.
+Section A: Read the text and choose the best option from a —d
+for questions 1 — 6.
+Among the questions that attracted interest in that fanatically inquisitive age was one that had puzzled
+people for 1 very long time A
+, why ancient clam shells and other marine fossils were so often found
+on mountaintops. How on earth did they get there? «Those who thought they had a solution fell into two
+opposing camps. One group, known as the Neptunists, were convinced that everything on the Earth, including
+seashells in improbably lofty places, could be explained by rising and falling sea levels. They believed that
+mountains, hills and other features were as old as the Earth itself, and were changed only when water sloshed
+over them during periods of global flooding.
+Opposing them were the Plutonists, who noted that volcanoes and earthquakes, among other enlivening
+agents, continually changed ii face of the planet, but clearly owed nothing to wayward seas. iii Plutonists
+also raised awkward questions about where all iv
+water went when it wasn’t in flood. If there was enough of
+it at the time to cover the Alps, then where, pray, was it during times of tranquility, such as now? Their belief
+was that the Earth was subject to profound internal forces as well as surface ones.
+B
+, they couldn’t
+convincingly explain how all those clam shells got g there.
+C
+puzzling over these matters that Hutton had a series of v exceptional insights. From looking at
+his own farmland, he could see that soil was created by the erosion of rocks and that particles of this soil were
+continually washed away and carried off by rivers and streams and redeposited elsewhere.
+Adapted from: Bryson, B. 2003. 4 short history ofnearly everything. Broadway Books.
+1.
+Which of the blanks labeled i — v can be filled with the article ‘T/the’?
+a. 1, ii, and v only
+b. i, iii, and iv only
+c. ti, iii, and iv only
+d. iii, iv, and v only
+2.
+Which of the following best fits in the blank labeled A?
+a. namely
+b. actually
+c. for instance
+d. indeed
+3. Which of the following is most consistent with the meaning of ‘Those who thought they hada solution’?
+a. puzzled people
+b. Neptunists
+c. Plutonists
+d. Neptunists and Plutonists
+4. Which of the following best fits in the blank labeled B?
+a. For example
+b. Therefore
+c. However
+d. Furthermore
+5. Which of the following is most consistent with the meaning of ‘there’?
+a. underwater
+b. on mountaintops
+c. in volcanoes
+d. on the planet
+6. Which of the following best fits in the blank labeled C?
+a. It was while
+b. For the purpose of
+c. In addition to
+d. Considering the result of
+6
+Section B: The six paragraphs A IF below make up a passage but are not properly ordered. Moreover,
+the five sentences 1 — 5 in paragraph A are not properly ordered, either. Read the passage and choose
+the best option from a — d for questions 7 and 8.
+A
+1
+Although few studies have investigated the effect ofmindset on acquiring musical skill, there is reason
+to think it could play a role.
+2
+Although mindset correlated significantly with only one practice factor organization of practice/
+record keeping, it also correlated significantly with task motivation, which reflects a person’s drive
+to master new material.
+3
+This pattern of correlations is consistent with the hypothesis that mindset is related to one’s propensity
+to practice, which in turn enhances skill acquisition.
+4
+Smith 2005 examined correlations between mindset,
+goal
+orientation, and practice
+in 344
+‘
+undergraduate instrumentalists.
+5
+In turn, task motivation correlated significantly with a composite factor representing degree of
+engagement in a variety of practice activities.
+B Domainspecific ability factors also appear to play an important role in the acquisition ofmusical skill. For
+instance, Ruthsatz et al. 2008 found that scores on the Advanced Measures ofMusic Audiation Gordon, 1989,
+a measure of auditory discrimination ability, predicted music achievement in high school band members
+r 0.22,
+p.01.
+C Numerous studies have examined the relation between nonability factors and skill acquisition in complex
+tasks. Recently, however, there has been a great deal of interest in whether skill acquisition can be predicted by
+people’s beliefs, or mindset, about their abilities. In a series of studies, Dweck and colleagues reported that
+people with a growth mindset, who believe that their ability in
+a domain can be changed with effort, showed
+higher levels of achievement than people with a fixed mindset, who believe that their ability is unchangeable.
+Nevertheless, a recent metaanalysis by Sisk, Burgoyne, Sun, Butler, and Macnamara 2018 revealed that the
+average relationship between mindset and academic achievement is relatively weak r 0.10, p < .001.
+D People differ in the rate at which they acquire complex skills. Music is no exception. As is well known,
+some people develop musical skill far more rapidly than others, with prodigies at one extreme, and people with
+congenital amusia at the other.
+E There have been many reports of significant associations between domaingeneral ability factors and
+musical skill. For example, in a study of 178 high school band members, Ruthsatz, Detterman, Griscom, and
+Cirullo 2008 found that scores on a test of fluid intelligence Raven’s Advanced Progressive Matrices
+correlated significantly with music achievement r 0.25,
+p.01.
+F What accounts for the striking interindividual variability in acquiring musical and other complex skills?
+This question can be framed in terms of a distinction between ability and nonability factors. Ability factors
+refer to stable skills or capacities and can be domaingeneral or domainspecific. Domaingeneral abilities e.g.,
+working memory capacity can be brought to bear on a wide range of tasks, whereas domainspecific abilities
+e.g., music aptitude are applicable to a relatively narrow range of tasks. Nonability factors include
+dispositional attributes such as personality, motivation, attitudes, interests, and beliefs. At least in theory, tests
+ofability factors capture maximal performance, whereas tests ofnonability factors capture typical performance.
+Adapted from: Burgoyne, A. P., Harris, L. J.,
+& Hambrick, D. Z. 2019. Predicting piano skill acquisition in beginners:
+The role of general intelligence, music aptitude, and mindset. Intelligence. 76, 101383.
+7.
+Which of the following shows the best most coherent sentence order for paragraph A?
+a. 41325
+b. 24315
+c. 4253
+d. 4—3—125
+8.
+Which of the following shows the best most coherent paragraph order for the passage?
+a.CFEABD
+b. DFBEAC
+c. DFEBCA
+d. FDBECA
+7
+Part IV. Read the texts in Sections A and B and answer the questions.
+Section A: Choose the best option from a — d for questions 1 — 5.
+Being able to detect and avoid fallacies has been viewed as a supplement to criteria of good reasoning. The
+knowledge of fallacies is needed to arm us against the most enticing missteps we might take with arguments.
+Following are some common fallacies.
+The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has
+occurred at least twice in an argument, such that on the first occurrence it has one meaning and on the second
+another meaning. A familiar example is:
+The end of life is death. Happiness is the end of life. So, death is happiness.
+‘The end of life’ first means ceasing to live, then it means purpose. That the same set ofwords is used twice
+conceals the fact that the two distinct meanings undermine the continuity of the reasoning, resulting in a non
+sequitur.
+The fallacies ofcomposition and division occur when the properties ofparts and composites are mistakenly
+thought to be transferable from one to the other. Consider the two sentences:
+a. Every member of the investigative team was an excellent researcher.
+b. It was an excellent investigative team.
+Here it is ‘excellence’ that is the property in question. The fallacy of composition is the inference from a
+to b but it need not hold if members of the team cannot work cooperatively with each other. The
+A
+inference from b to a—the fallacy of division
+may also fail if some essential members of the team have a
+supportive or administrative role rather than a research role.
+There are a number of fallacies associated with causation. The most frequently discussed is post hoc ergo
+propter hoc. This fallacy ascribes a causal relationship between two states or events on the basis of temporal
+succession. For example,
+Unemployment decreased in the fourth quarter because the government eliminated the
+gasoline tax in the second quarter.
+The decrease in unemployment that took place after the elimination of the tax may have been due to other
+causes; perhaps new industrial machinery or increased international demand for products.
+Adapted from: Hansen, H. 2023. Fallacies. In Edward N. Z. & Nodelman, U. Eds., The Stanford Encyclopedia ofPhilosophy.
+1.
+Which of the following best fits in the blank labeled A?
+a. equivalent
+b. reverse
+c. divisive
+d. separate
+2.
+Which fallacy is evidenced by the commentators in the following scenario? “After a major TV news program
+was found guilty of spreading misinformation, many commentators argued that we should no longer trust
+media organizations.”
+a. post hoc ergo propter hoc
+b. composition
+c. division
+d. equivocation
+3.
+Which fallacy
+is evidenced by the critics in the following scenario? “Critics blamed the current
+administration for this year’s economic recession, arguing that before the current administration took office,
+the nation had experienced three quarters of economic growth.”
+a. post hoc ergo propter hoc
+b. composition
+c. division
+d. equivocation
+4.
+What term is being equivocated in the following classic joke? “My dog has no nose.” “Well, then, how does
+your dog smell?” “It smells awful!”
+a. awful
+b. dog
+C. nose
+d. smell
+5. Which of the following is implied by the text?
+a. The equivocation and post hoc ergo propter hoc fallacies can be seen as opposites.
+b. The post hoc ergo propter hoc fallacy occurs most often in political discussions.
+c.
+Acomposition fallacy always cooccurs with a division fallacy.
+d. Care is needed because people may argue using fallacies such as equivocation.
+—
+8
+Section B: Choose the best option from a—d
+for questions 6 — 10.
+Research has found that human learning often follows a simple mathematical function. For example, visual
+tasks such as the improvement in time taken to read an inverted text or the time taken to identify multiple targets
+in a page of letters have been found to follow this function. It also appears to hold for motor tasks like those
+where the cursor needs to be placed on an object which appears on a computer screen.
+This relationship between the number of times a task is completed and the time taken to complete the task
+is represented by Equation 1 below. That is, plotting the logarithm of the time to perform a task against the
+logarithm of the number of times the task has been completed yieldsa straight line. It is called the power law
+of practice:
+TaN?,
+1
+where T is the time to complete a task, is the number of times the task has been completed, and a and
+are
+positive constants.
+The implication is as the number of times a task is completed increases, the learning benefit diminishes.
+For example, perhaps there is a 10second difference in the time taken to complete a task between the first and
+second practice. The difference in time taken might only be second between the 100" and the 101 completion.
+Suhaib 2018 attempted to determine if learning to type Japanese followed the power law of practice and
+found that the number of Japanese characters that nonnative speakers could type in a minute increased as the
+participants practiced more. In the beginning they could only type an average of 10 characters per minute. By
+the time they had completed 10 trials, they could type 20 characters per minute. Finally, after 20 trials they were
+able to type 23 characters per minute.
+Adapted from: Newell, A. & Rosenbloom, P. S. 2013. Mechanisms of skill acquisition and the law of practice. In Cognitive skills
+and their acquisition. Psychology Press.
+6.
+Which of the following activities would most typically follow the power law of practice for a beginner?
+a. following the school rules
+b. taking a break from homework
+c. cutting an onion into slices
+d. comprehending the theory of evolution
+7.
+Which of the following graphs best represents the power law of practice?
+a.
+b.
+C.
+d.
+I a KO
+2
+2
+log N
+log N
+log NV
+log N
+8.
+Which of the following best describes the power law of practice?
+a. There is more improvement in the time to complete a task when one starts learning.
+b. Improvement in time to complete a task takes place gradually in the beginning.
+c. While failure is possible at the beginning, the chance of it decreases with time.
+d. Once a certain amount of practice is completed, one can do the task perfectly.
+9.
+Do the results from Suhaib’s 2018 study support the power law of practice?
+a. Yes, the number of trials completed by the participants increased throughout the experiment.
+b. No, the time taken to type a character increased towards the end of the experiment.
+c. No, the number of characters typed increased more towards the end of the experiment.
+d. Yes, the decrease in time taken to type a character was smaller at the end of the experiment.
+10. Which ofthe following statements i — iii does the text imply about research practices in human learning?
+i
+Researchers investigate if human learning in new situations follows a mathematical function.
+ii
+To confirm the validity of a mathematical function, statistical computer trials are undertaken.
+iii Research is conducted by collecting data while observing humans doing learning tasks.
+a. i only
+b. i and iii only
+c. ii and iti only
+d. 4, 1, and 111
+9
+Part V.
+For questions 1 15, two definitions are given with one sample sentence each. Think of a word that
+matches both definitions and also fits in the blanks in both sentences. Convert each letter of the word into
+a number 1 to 4 according to the table below: number 1 represents letters a — g, 2 represents h — m, 3
+represents n — s, and 4 represents ¢ — z. Then choose the matching sequence of numbers from options
+a — d. For example, if the word you think of is wise, for which the first letter w is given, the remaining
+letters would be changed into 2 for i, 3 for s, and 7 for e. Hence, the correct answer would be w231.
+4 twwwxwz
+1.
+i
+unaffected by a particular disease because of either preventive measures or inherent resistance: The
+vaccine made them i to the disease for life.
+ii protected from punishment or legal action due to special status or privilege: The ambassador was i__
+from prosecution under international law.
+a. 1313322
+b. 12313212
+c. 144421334
+d. 122431
+2.
+i
+to attain a high level of accomplishment: His ability to adapt has allowed him to s__ in a competitive
+industry.
+ii to become the next person to hold a particular position or title after someone else: The new principal
+will soon s__ the retiring one.
+a. 411111
+b. s41224
+c. 823221
+d. 53411112
+3.
+i
+extremely important or essential for the existence of something: Education is v__ for personal and
+professional growth.
+ii linked with life or important in keeping a person alive: The patient’s v__ signs were monitored closely
+during surgery.
+a. v134
+b. v2412
+c. v3312
+d. v24313112
+4.
+i
+to be equivalent or interchangeable, as when two items have identical properties or characteristics: The
+company’s policies on employee benefits c__ to industry standards.
+ii to exchange messages: He used to c__ with his friends by sending handwritten letters.
+a. c11131123
+b. c213214
+c. 6333133331
+d. c232434
+5.
+i
+ajob or rank: The young lawyer had a high paying p__ at a big law firm.
+ii a belief or assertion: The president’s p__ was that global warming was an important issue.
+a. p3324233
+b. p134
+c. p32231
+d. p131244
+6.
+i
+aset of words which conveys a meaning: The simple s__ may contain a verb, nouns, and adjectives.
+ii to declare the punishment decided for someone who breaks the law: The defendant was s__d to fifteen
+years in federal custody.
+a. $32122131
+b. 53433331
+c.
+1341311
+d. 5431131
+7.
+i
+to break down food in the body to use as energy: I had a hard time d_ ing the spicy food.
+ii a brief account or summary: This program gives you ad__ of today’s main news stories at the end.
+a. d33114
+b. 1134
+c. 234441
+d.
+24
+8.
+i
+ameeting between the heads ofgovernment from several nations to address global problems: The world
+leaders held as__ to discuss climate change and its effects.
+ii the peak of a mountain or hill: The climbers finally made it to the s__, exhausted but proud.
+a. 8343323
+b. 51341311
+c. s222314134
+d. 542224
+9.
+i
+the branch of science dealing with motion: Classical m__ is a required course for physics majors.
+ii the operational details of something: Biologists study the 7__ of the human body.
+a. m3433
+b. m112121
+c. m314233
+d. m11213213
+10. i
+to give someone some information or instructions so they are ready for something: The police b__ed
+the journalists on the latest developments in the ongoing investigation.
+ii lasting only a short period of time: My 6__ nap refreshed me for the rest of the day.
+a. 63211
+b. 63334
+c. 6221342
+d. 634121
+11. i
+a regular gathering of an organization or business: People were excited to see the new product
+announcements at the annual technology c__ in New York.
+ii
+a commonlyfollowed guideline or practice: For many decades, it was a c__ in English writing that
+periods should be followed by two spaces, but commas by only one.
+a. 12343412
+b. c334134233
+c. c143311213
+d. c2314233
+12. i
+a distinctive quality or trait of something or someone, often making it unique or interesting: The
+museum’s collection of rare artifacts is one of its most impressive f__s.
+ii to include something or someone as a prominent part of something else: The concert will f__ famous
+musicians from around the world.
+a.
+{13323341
+b.
+11433
+c.
+f114431
+d.{2212223324
+13. i
+to accept something unwillingly because one is not powerful enough: I had no choice but to s__ to the
+company’s demands.
+ii to present something formally for consideration or for a decision: It took him so long to s__ his
+proposal for the new project.
+a. 5334131
+b. 541224
+c. $3433322
+d. 53232
+14. i
+the boundary of something: I was really scared when I stood on the e__ of the cliff.
+ii an advantage over something or someone: This new smartphone has ane
+over its competitors.
+a.elll
+b. e33341
+c. e2322212
+d. e314331234
+15. i
+to become or make something fixed or attached to a surface: This magnet will s__ to the refrigerator.
+ii a long thin piece of wood or other hard material: My friend uses a s__ to walk when she’s hiking.
+a. 53341142
+b. s113112
+c. $434
+d. s4212
+End of Exam
+Il
+SER
+L
+92
+VEEN SMSSa Rete eee90C206262062 EMIS
+OSH Sit
+082 oe320
+PORE SRaeeote RySSEeet
+‘
+SERS SIG ee,0 SWE
+Ve MeMeOMENOs
+2OO oeAA BERRA OR Rae x SPOS000 0
+ES SSS MESO000608 IMSS AAOAR 020620C20c
+0
+00
+YeisenCO SHS KE ESO
+WE0 ioe 0 Sukteins f
+eee ee
+Geis
+oes SE
+BO
+SESS
+NS 20020020000000000
+WeinCSSOGSOSOCRe GSOSSX ae:2 20GSSSOSSOGSX 2080
+Ce eee eee 02506300308006Seaade alan
+Rie eats DEaca002200 oes
+CO0630630 WSUSOWSWeeSeeOIE200
+Oe
+OBOE NNER ROS ERS
